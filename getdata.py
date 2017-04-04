@@ -21,13 +21,13 @@ try:
         if article["type_of_material"] == "News" and article["news_desk"] == "National":
             urls.append(article["web_url"])
             counter += 1
-        if counter >= 10:
+        if counter >= 20:
             break
     
     '''with open('data.txt', 'w') as outfile:
         json.dump(data, outfile)'''
         
-    with open('urls.txt', 'w') as outfile:
+    with open('NYTUrls.txt', 'w') as outfile:
         for item in urls:
             outfile.write(item + '\n')
             
