@@ -11,7 +11,7 @@ def analyze_file(file_name, mode):
 		extension_pos = file_name.index('.')
 		raw_file_name = file_name[:extension_pos]
 		csv_writer.writerow([raw_file_name.upper(), raw_file_name.upper()])
-		csv_writer.writerow(["Polarity","Subjectivity"])
+		csv_writer.writerow(["Subjectivity", "Polarity"])
 		for line in data_file:
 			utf_line = line.decode("utf-8")
 			ascii_line  =utf_line.encode("ascii","ignore")
@@ -25,7 +25,7 @@ def analyze_file(file_name, mode):
 				#print sentence[0:100]
 				blob = TextBlob(sentence)
 				(polarity, subjectivity) = blob.sentiment
-				csv_writer.writerow([polarity, subjectivity])
+				csv_writer.writerow([subjectivity, polarity])
 				#print "\n"
 		csv_writer.writerow(['',''])
 
