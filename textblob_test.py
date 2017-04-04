@@ -39,7 +39,7 @@ def analyze_literal(sentences):
 if __name__=="__main__":
 	#Basic demo
 	print "-------------BASIC LITERAL----------------------\n"
-	sentences = ["UNC is the worst school in the world", "Some movies are long", "I love Duke University!"]
+	sentences = ["UNC is the worst school in the world", "Some movies are long", "Why are hats?", "I love Duke University!", "The sky might be blue."]
 	analyze_literal(sentences)
 	print "-------------FILES----------------------\n"
 	file_names = ['NYTArticles.txt','NYTBlogArticles.txt']
@@ -47,9 +47,9 @@ if __name__=="__main__":
 	for file_name in file_names:
 		print file_name
 		if first:
-			analyze_file(file_name, 'w')
+			analyze_file(file_name, 'w') #Overwrites any old versions
 			first = False
 		else:
-			analyze_file(file_name, 'a')
+			analyze_file(file_name, 'a') #Appends to all current versions
 		
 		
