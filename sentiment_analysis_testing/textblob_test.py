@@ -2,19 +2,38 @@
 import csv
 from textblob import TextBlob
 
+#Removes extension and writes filename in upper case for write_csv_header
+def process_file_name(filename):
+	extension_pos = file_name.index('.')
+	raw_file_name = file_name[:extension_pos]
+	return [raw_file_name.upper(), raw_file_name.upper()]
+
+#Performs textblob's sentiment analysis on the parameter sentence
+def sentence_sentiment(sentence):
+	blob = TextBlob(sentence)
+	(polarity, subjectivity) = blob.sentiment
+	return [subjectivity, polarity]
+
+#Puts a line of the txt file into ascii format
+def ascii_prepare(line):
+	return line.decode("utf-8").encode("ascii","ignore")
+
+#Writes the lines indicating what file it is and the sentiment features
+def write_csv_header(csv_writer, file_name):
+	csv_writer.writerow(process_file_name(file_name))
+	csv_writer.writerow(["Subjectivity", "Polarity"]) 
+
+#Performs sentiment analysis on a text file containing some number of articles and
+#writes results to a csv file
 def analyze_file(file_name, mode):
 	with open('results.csv',mode) as csvfile:
 		data_file = open(file_name,'r')
 		sentences = []
 		sentence = ""
 		csv_writer = csv.writer(csvfile, delimiter=',', lineterminator = '\n')
-		extension_pos = file_name.index('.')
-		raw_file_name = file_name[:extension_pos]
-		csv_writer.writerow([raw_file_name.upper(), raw_file_name.upper()])
-		csv_writer.writerow(["Subjectivity", "Polarity"]) 
+		write_csv_header(csv_writer, file_name)
 		for line in data_file:
-			utf_line = line.decode("utf-8")
-			ascii_line  =utf_line.encode("ascii","ignore")
+			ascii_line = ascii_prepare(line)
 			if 'ARTICLE' in ascii_line:
 				sentences.append(sentence)
 				sentence = ""
@@ -22,13 +41,11 @@ def analyze_file(file_name, mode):
 				sentence+= " " + ascii_line
 		for sentence in sentences:
 			if len(sentence) > 0:
-				#print sentence[0:100]
-				blob = TextBlob(sentence)
-				(polarity, subjectivity) = blob.sentiment
-				csv_writer.writerow([subjectivity, polarity])
-				#print "\n"
+				csv_writer.writerow(sentence_sentiment(sentence))
+
 		csv_writer.writerow(['',''])
 
+#Analyzes a given list of literal sentences to demonstrate textblob's capabilities
 def analyze_literal(sentences):
 	for sentence in sentences:
 		print sentence
@@ -50,6 +67,6 @@ if __name__=="__main__":
 			analyze_file(file_name, 'w') #Overwrites any old versions
 			first = False
 		else:
-			analyze_file(file_name, 'a') #Appends to all current versions
+			analyze_file(file_name, 'a') #Appends to current version
 		
 		
