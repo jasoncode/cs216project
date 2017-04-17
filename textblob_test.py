@@ -8,30 +8,36 @@ def process_file_name(filename):
 	raw_file_name = file_name[:extension_pos]
 	return [raw_file_name.upper(), raw_file_name.upper()]
 
-#Performs textblob's sentiment analysis on the parameter sentence
-def sentence_sentiment(sentence):
-	blob = TextBlob(sentence)
-	(polarity, subjectivity) = blob.sentiment
-	return [subjectivity, polarity]
-
 #Puts a line of the txt file into ascii format
 def ascii_prepare(line):
 	return line.decode("utf-8").encode("ascii","ignore")
 
-#Writes the lines indicating what file it is and the sentiment features
-def write_csv_header(csv_writer, file_name):
-	csv_writer.writerow(process_file_name(file_name))
-	csv_writer.writerow(["Subjectivity", "Polarity"]) 
+def compute_mean(vals):
+	return sum(vals)*1.0/len(vals)
 
+def compute_median(vals):
+	vals.sort()
+	middle = len(vals)/2
+	if len(vals) % 2 == 0:
+		return (vals[middle] + vals[middle-1])/2.0
+	else:
+		return vals[middle] #Truncates to an int
+		
 #Performs sentiment analysis on a text file containing some number of articles and
 #writes results to a csv file
 def analyze_file(file_name, mode):
 	with open('results.csv',mode) as csvfile:
 		data_file = open(file_name,'r')
 		sentences = []
+		subjectivities = []
+		polarities = []
 		sentence = ""
 		csv_writer = csv.writer(csvfile, delimiter=',', lineterminator = '\n')
-		write_csv_header(csv_writer, file_name)
+		
+		#Write header for each new file
+		csv_writer.writerow(process_file_name(file_name))
+		csv_writer.writerow(["","Subjectivity", "Polarity"]) 
+		
 		for line in data_file:
 			ascii_line = ascii_prepare(line)
 			if 'ARTICLE' in ascii_line:
@@ -41,8 +47,15 @@ def analyze_file(file_name, mode):
 				sentence+= " " + ascii_line
 		for sentence in sentences:
 			if len(sentence) > 0:
-				csv_writer.writerow(sentence_sentiment(sentence))
-
+				blob = TextBlob(sentence)
+				(polarity, subjectivity) = blob.sentiment
+				subjectivities.append(subjectivity)
+				polarities.append(polarity)
+				csv_writer.writerow(["", subjectivity, polarity])
+		
+		csv_writer.writerow(['','',''])
+		csv_writer.writerow(['mean',compute_mean(subjectivities), compute_mean(polarities)])
+		csv_writer.writerow(['median', compute_median(subjectivities), compute_median(polarities)])
 		csv_writer.writerow(['',''])
 
 #Analyzes a given list of literal sentences to demonstrate textblob's capabilities
@@ -56,7 +69,7 @@ def analyze_literal(sentences):
 if __name__=="__main__":
 	#Basic demo
 	print "-------------BASIC LITERAL----------------------\n"
-	sentences = ["UNC is the worst school in the world", "Some movies are long", "Why are hats?", "I love Duke University!", "The sky might be blue."]
+	sentences = ["UNC is the worst school in the world", "Some movies are long", "Why are hats?", "Why are bears so stupid" "I love Duke University!", "The sky might be blue."]
 	analyze_literal(sentences)
 	print "-------------FILES----------------------\n"
 	file_names = ['NYTArticles.txt','NYTBlogArticles.txt']
