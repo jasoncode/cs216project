@@ -21,14 +21,14 @@ def scraper(url, prefix):
     tree = html.fromstring(data.content)
     paragraphsUTF = []
     
-    if prefix == 'NYT':
+    if prefix in ['NYTNational', 'NYTPolitical']:
         paragraphs = tree.xpath('//article/div[@class="story-body-supplemental"]/div/p[@class="story-body-text story-content"]')
     elif prefix == 'NYTBlog':
         paragraphs = tree.xpath('//article/div[@class="entry-content"]/p')
     
     
     for paragraph in paragraphs:
-        if prefix == 'NYT':
+        if prefix in ['NYTNational', 'NYTPolitical']:
             paragraph = paragraph.text_content().encode('latin1').decode('utf-8').encode('utf-8')
         elif prefix == 'NYTBlog':
             paragraph = paragraph.text_content().encode('utf-8')
@@ -37,8 +37,9 @@ def scraper(url, prefix):
     return paragraphsUTF
 
 if __name__ == "__main__":
-    getArticles('NYTUrls.txt')
-    getArticles('NYTBlogUrls.txt')    
+    getArticles('NYTNationalUrls.txt')
+    getArticles('NYTBlogUrls.txt')
+    getArticles('NYTPoliticalUrls.txt')       
     
     
     
