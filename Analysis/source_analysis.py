@@ -56,6 +56,7 @@ def analyze_file(file_name, mode):
         
         csv_writer.writerow(['','',''])
         csv_writer.writerow(['mean',compute_mean(subjectivities), compute_mean(polarities)])
+        csv_writer.writerow(['Absolute mean', 'N/A',compute_mean([abs(x) for x in polarities])])
         csv_writer.writerow(['median', compute_median(subjectivities), compute_median(polarities)])
         csv_writer.writerow(['',''])
 
