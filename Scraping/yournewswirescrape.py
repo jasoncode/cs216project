@@ -3,7 +3,6 @@ import sys
 import scrapingutil as scrape
 
 def getUrls():
-    
     urls = []
     #number of pages, there 10 articles per page
     for i in range(1, 11):
@@ -18,14 +17,13 @@ def scraper(url):
     paragraphsUTF = []
     
     for paragraph in paragraphs:
-        paragraph = paragraph.text_content().encode('utf-8')
-        paragraphsUTF.append(paragraph)   
+        paragraphsUTF.append(scrape.encodeParagraph(paragraph.text_content()))    
     
     return paragraphsUTF
 
 if __name__ == "__main__":
     urls = getUrls()
-    scrape.writeArticleFile('YourNewsWireArticles', urls, sys.modules[__name__])
+    scrape.writeArticleFile('./FakeNews/YourNewsWireArticles', urls, sys.modules[__name__])
    
     
     
