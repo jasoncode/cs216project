@@ -12,7 +12,7 @@ def getHTML(url):
         
     except Exception as e:
         print 'Got an error code:', e
-
+        
 """
 Basically this method takes a filename, a list of urls, and a module (which must contain a scraper function), and then
 scrapes all of the articles from given urls and writes them to a text file for storage
@@ -38,5 +38,20 @@ def writeArticleFile(filename, urls, module, urlnum=None):
             for text in paragraphs:
                 outfile.write(text + '\n')
             outfile.write('\n\n\n')  
-            
-           
+
+def encodeParagraph(paragraph):
+    try:
+        paragraphUTF = paragraph.encode('utf-8')
+        return paragraphUTF
+    except Exception:
+        pass
+    try:
+        paragraphUTF = paragraph.encode('latin1').decode('utf-8').encode('utf-8')
+        return paragraphUTF
+    except Exception as e:
+        print 'Encoding failed:', e
+    
+    
+    
+    
+    
