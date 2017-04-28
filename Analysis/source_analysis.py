@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import csv
 from textblob import TextBlob
+import os
 
 LEN_ROWS = 110
 SUMMARY_STATS = 3
@@ -11,7 +12,7 @@ def process_file_name(file_name):
     raw_file_name = file_name[name_start+1:extension_pos]
     return raw_file_name.upper()
 
-#Puts a line of the txt file into ascii format
+#Puts a line of the txt file_name into ascii format
 def ascii_prepare(line):
     return line.decode("utf-8").encode("ascii","ignore")
 
@@ -26,7 +27,7 @@ def compute_median(vals):
     else:
         return vals[middle] #Truncates to an int
         
-#Performs sentiment analysis on a text file containing some number of articles 
+#Performs sentiment analysis on a text file_name containing some number of articles 
 def analyze_file(file_name):
     
     data_file = open(file_name,'r')
@@ -73,13 +74,13 @@ def process_files(csv_writer, file_names, title):
             all_subj.extend(subjectivities)
             all_pol.extend(polarities)
             
-            #Prepare to write to file
+            #Prepare to write to file_name
             for i in range(2,min(LEN_ROWS-SUMMARY_STATS,2+len(subjectivities))):
                 rows[i].extend(["", subjectivities[i-2], polarities[i-2]])
             for j in range(i+1, LEN_ROWS-SUMMARY_STATS):
                 rows[j].extend(['','',''])
             
-            #Prepare summary statistics to write to file
+            #Prepare summary statistics to write to file_name
             summary_rows = compute_summary(subjectivities, polarities)
             for i in range(len(summary_rows)):
                 rows[LEN_ROWS+(i-3)].extend(summary_rows[i])
@@ -101,12 +102,11 @@ def process_files(csv_writer, file_names, title):
         
 
 if __name__=="__main__":
-    folder_path = '../Scraping/'
-    extension = '.txt'
-    real_names = ['NYTPoliticalArticles','NewsExaminerArticles', 'NYTNationalArticles', 'NYTPoliticalArticles']
-    fake_names = ['NYTNationalArticles']
-    real_file_names = [folder_path + name + extension for name in real_names]
-    fake_file_names = [folder_path + name + extension for name in fake_names]
+    real_folder_path = '../Scraping/RealNews/'
+    fake_folder_path = '../Scraping/FakeNews/'
+
+    real_file_names = [real_folder_path + file_name for file_name in os.listdir(real_folder_path)]
+    fake_file_names = [fake_folder_path + file_name for file_name in os.listdir(fake_folder_path)]
     with open('results.csv','w') as csvfile:
         csv_writer = csv.writer(csvfile, delimiter=',', lineterminator = '\n')
         process_files(csv_writer, real_file_names, 'Real News')
