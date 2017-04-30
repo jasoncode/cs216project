@@ -72,13 +72,13 @@ def compute_summary(subjectivities, polarities):
     return [['',''],['',''],['','']]
   
 
-def process_files(csv_writer, file_names, title):
+def process_files(by_source_writer, by_article_writer, file_names, title):
         rows = [[''] for i in range(LEN_ROWS)]
         rows[LEN_ROWS-3] = ['Mean']
         rows[LEN_ROWS-2] = ['Abs Mean']
         rows[LEN_ROWS-1] = ['Median']
 
-        csv_writer.writerow([title.upper(), ''])
+        by_source_writer.writerow([title.upper(), ''])
         all_subj = []
         all_pol = []
 
@@ -117,7 +117,7 @@ def process_files(csv_writer, file_names, title):
         rows.append([])
 
         for row in rows:
-            csv_writer.writerow(row)
+            by_source_writer.writerow(row)
 
 if __name__=="__main__":
     real_folder_path = '../Scraping/RealNews/'
@@ -125,7 +125,9 @@ if __name__=="__main__":
 
     real_file_names = [real_folder_path + file_name for file_name in os.listdir(real_folder_path)]
     fake_file_names = [fake_folder_path + file_name for file_name in os.listdir(fake_folder_path)]
-    with open('results.csv','w') as csvfile:
-        csv_writer = csv.writer(csvfile, delimiter=',', lineterminator = '\n')
-        process_files(csv_writer, fake_file_names, 'Fake News')  
-        process_files(csv_writer, real_file_names, 'Real News')   
+    by_source_file = open('../Results/resuls_bysource.csv','w')
+    by_article_file = open('../Results/results_byarticle.csv','w')
+    source_csv_writer = csv.writer(by_source_file, delimiter=',', lineterminator = '\n')
+    article_csv_writer = csv.writer(by_article_file, delimiter=',', lineterminator = '\n')
+    process_files(source_csv_writer, article_csv_writer, fake_file_names, 'Fake News')  
+    process_files(source_csv_writer, article_csv_writer, 'Real News')   
