@@ -8,13 +8,16 @@ def getArticles(filename):
 
     prefix = filename.split('.')[0].replace("Urls", "")
     
-    with open(prefix + 'Articles.txt', 'w') as outfile:
-        for url in urls:
+    with open('./RealNews/' + prefix + 'Articles.txt', 'w') as outfile:
+        for count, url in enumerate(urls):
             outfile.write('ARTICLE\n')
             paragraphs = scraper(url, prefix)
             for text in paragraphs:
                 outfile.write(text + '\n')
             outfile.write('\n\n\n')
+            
+            if count % 50 == 0:
+                print count
             
 def scraper(url, prefix):
     data = requests.get(url)
@@ -37,8 +40,8 @@ def scraper(url, prefix):
     return paragraphsUTF
 
 if __name__ == "__main__":
-    getArticles('NYTNationalUrls.txt')
-    getArticles('NYTBlogUrls.txt')
+    #getArticles('NYTNationalUrls.txt')
+    #getArticles('NYTBlogUrls.txt')
     getArticles('NYTPoliticalUrls.txt')       
     
     
