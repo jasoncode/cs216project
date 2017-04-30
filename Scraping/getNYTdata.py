@@ -18,8 +18,9 @@ def getAPIReponse():
         #data = requests.get('https://api.nytimes.com/svc/archive/v1/2016/1.json?api-key=64c18adc14cb43049ea3e5e74bdc7a49').json()
         
         #March 2017
-        data = requests.get('https://api.nytimes.com/svc/archive/v1/2017/3.json?api-key=64c18adc14cb43049ea3e5e74bdc7a49').json()
-        return data
+        data1 = requests.get('https://api.nytimes.com/svc/archive/v1/2017/2.json?api-key=64c18adc14cb43049ea3e5e74bdc7a49').json()
+        data2 = requests.get('https://api.nytimes.com/svc/archive/v1/2017/3.json?api-key=64c18adc14cb43049ea3e5e74bdc7a49').json()
+        return data2, data1
                 
     except URLError, e:
         print 'Got an error code:', e
@@ -29,6 +30,7 @@ def findURLs(control, response, numArticles):
         with open('NYTResponse.txt', 'w') as outfile:
             json.dump(response, outfile)
     
+    #gets national news articles
     if 1 in control:
         counter = 0
         urls = []
@@ -41,7 +43,8 @@ def findURLs(control, response, numArticles):
                 break
         
         writeURLs('NYTNationalUrls.txt', urls)
-            
+    
+    #gets blog articles    
     if 2 in control:
         counter = 0
         urls = []
@@ -55,6 +58,7 @@ def findURLs(control, response, numArticles):
         
         writeURLs('NYTBlogUrls.txt', urls)
     
+    #gets political articles
     if 3 in control:
         counter = 0
         urls = []
@@ -65,8 +69,8 @@ def findURLs(control, response, numArticles):
                 counter += 1
             if counter >= numArticles:
                 break
-        writeURLs('NYTPoliticalUrls.txt', urls)
-        
+        return urls
+            
     return
 
 def writeURLs(filename, urls):
@@ -77,15 +81,18 @@ def writeURLs(filename, urls):
     
 if __name__ == "__main__":
     response = getAPIReponse()
-
+    numUrls = 500
+    
     #There's probly a more elegant way to do this, but basically this just passes a list of integers into the findURLs method,
     #and those integers control what data is written to files
     #0 dump nyt response to file
     #1 get national news article urls
     #2 get blog article urls
     #3 get political article urls
-    control = []
-    findURLs(control, response, 100)
-    
-
+    control = [3]
+    urls2 = findURLs(control, response[0], numUrls)
+    if len(urls2) < numUrls:
+        urls1 = findURLs(control, response[1], numUrls-len(urls2))
+    urls2.extend(urls1)
+    writeURLs('NYTPoliticalUrls.txt', urls2) 
     

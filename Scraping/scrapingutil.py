@@ -25,12 +25,15 @@ scrapes all of the articles from given urls and writes them to a text file for s
 def writeArticleFile(filename, urls, module, urlnum=None):
     with open(filename + '.txt', 'w') as outfile:
         if urlnum is None:
-            for url in urls:
+            for count, url in enumerate(urls):
                 outfile.write('ARTICLE\n')
                 paragraphs = module.scraper(url)
                 for text in paragraphs:
                     outfile.write(text + '\n')
-                outfile.write('\n\n\n')    
+                outfile.write('\n\n\n')
+
+                if count % 50 == 0:
+                    print count
         else: 
             url = urls[urlnum]
             outfile.write('ARTICLE\n')
