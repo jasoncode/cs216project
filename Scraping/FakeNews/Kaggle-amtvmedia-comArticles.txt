@@ -12,11 +12,9 @@ Robert Kelley, a former nuclear weapons expert at the U.S. Department of Energy,
 'The range of the missiles will be about the same, the explosive destructive power will be about the same [but] the reliability, flexibility and confidence [in the warheads' ability to hit their targets] will go way up,' said Kelley. 
 He noted: 'Your iPhone can do thousands of more things today than in the 1970s when these systems were first deployed. Many of the clunky electronic circuits of that era no longer exist and no one knows how to make them anymore.' 
 The RS-28 weighs about 100 tons, and it features a large, 10-ton nuclear payload capacity. The missile is expected to enter service in 2018.
-
 ARTICLE
 
 Russia Unveils Update of Advanced Nuclear Weapon 10/26/2016 EPOCH TIMES Russia has unveiled a new nuclear missile that 'is capable of wiping out parts of the earth the size of T ... Biden: I'd Take on Trump Behind Gym 10/26/2016 ANOTHER DAY IN THE EMPIRE Just when you thought this election cycle couldn't get any more slimy and absurd. Enter ... Scientists About To Pour $100 Million Into Looking For Aliens Around Weird Star 10/26/2016 THE DAILY CALLER Astronomers are about to pour $100 million into investigating a star that may be surrounded by a lar ... AMTV Archives
-
 ARTICLE
 
 Britain, U.S. sending planes, troops to deter Russia in the east 10/26/2016 
@@ -45,7 +43,6 @@ NATO's tensions with Russia have been building since Crimea and the West's decis
 But the breakdown of a U.S-Russia brokered ceasefire in Syria on Oct. 3, followed by U.S. accusations that Russia has used cyber attacks to disrupt the presidential election, have signaled a worsening of ties. 
 Even before the break down of the Syrian ceasefire, Russian President Vladimir Putin suspended a treaty with Washington on cleaning up weapons-grade plutonium, signaling he was willing to use nuclear disarmament as a new bargaining chip in disputes with the United States over Ukraine and Syria. 
 (Additional reporting by Sabine Siebold; Editing by Tom Heneghan)
-
 ARTICLE
 
   
@@ -57,7 +54,6 @@ U.S. Secretary of Defense Ash Carter announced a battalion of 900 'battle-ready'
 Russia steadily built up its military presence on the European border for several months. Russian Defense Minister Sergey Shoigu announced a plan to recruit 30,000 additional forces to be stationed on Russia's eastern flank in May, followed by the deployment of the Iskander missiles to Kaliningrad in early October. 
 The massive military build-up represents one of the largest since the Cold War, and comes at a time when tensions between the West and Moscow at are dangerously tense. 
 Send tips to [email protected] .
-
 ARTICLE
 
 Reuters Donald Trump's Hollywood Walk of Fame star vandalized on video 10/27/2016 
@@ -77,7 +73,6 @@ His star on the Walk of Fame was previously targeted.
 In the summer, a street artist erected a tiny wall around the star, complete with miniature American flags and barbed wire. The art piece, which was later removed, made light of Trump's campaign pledge to build a wall along the U.S. border with Mexico. 
 The Hollywood Chamber of Commerce administers the hundreds of star plaques on sidewalks in the Los Angeles neighborhood. They are purchased for $30,000 each. 
 Leron Gubler, president and CEO of the chamber, said in a statement the star would be covered for several days during repairs.
-
 ARTICLE
 
 New Las Vegas Casino ONLY for Chinese Gamblers 10/27/2016 
@@ -118,7 +113,6 @@ The company hit a snag last year when it unsuccessfully sought tax subsidies fro
 Lucky Dragon isn't the first Las Vegas resort to target a specific demographic. The Hard Rock Hotel & Casino and the Palms Casino Resort opened years ago catering to young partygoers and clubbers before eventually being overshadowed by larger competitors on the Strip such as the MGM Grand and the Cosmopolitan. 
 Lucky Dragon's early backers even considered building an LGBT resort before settling on their current strategy, one they say will live and die on being able to deliver an authentic Chinese gambling experience. 
 'We set out trying to put together a place that would stand alone in Shanghai if you dropped it off down there today,' Jacoby said. 'We didn't want to [have] just gongs, Asian tapestries and caricature-stuff like that.'
-
 ARTICLE
 
 World wildlife 'falls by 58% in 40 years' 10/27/2016 
@@ -156,7 +150,6 @@ But Dr Freeman said the team had taken the best data possible from around the wo
 'It's completely true that in some regions and in some groups, like tropical amphibians for example, we do have a lack of data. But that's because there is a lack of data. 
 'We're confident that the method we are using is the best method to present an overall estimate of population decline. 
 'It's entirely possible that species that aren't being monitored as effectively may be doing much worse '“ but I'd be very surprised if they were doing much better than we observed. '
-
 ARTICLE
 
 Opinion: Economics is a Form of Brain Damage 10/27/2016 
@@ -167,12 +160,10 @@ Award winning scientist, author, environmental activist, broadcaster, and geneti
 'Economics is not a science '“ it doesn't even include the earth in its equations. Economics is not based in anything like the real world.' 
 'Money now grows faster than the real world and economics is so fundamentally disconnected from the real world that it is destructive.' 
 Here David Suzuki explains how conventional economics is a form of brain damage.
-
 ARTICLE
 
 Computers that can read your MIND and convert your thoughts 10/27/2016 
 THE DAILY MAIL Voice-recognition technology can be useful for dictating text when you have no way of typing. But computers could soon be able to decode your thoughts into actual speech or written words, without you even saying a word. This kind of technology sounds like science fiction, but there are a variety of ways scientists are edging towards making it a reality, according to a new review. Computers that can read our minds might enhance the capabilities of already existing speech interfaces with devices, like Siri and Ok Google. But it could be even more important for those with speech difficulties, and even more so for patients who lack any speech or motor function at all. 'So instead of saying 'Siri, what is the weather like today' or 'Ok Google, where can I go for lunch?' I just imagine saying these things,' said Christian Herff, author of a review recently published in the journal Frontiers in Human Neuroscience . Reading someone's thoughts might still belong to the realms of science fiction, but scientists are already decoding speech from signals generated in our brains when we speak or listen to someone talking. In the new study, Mr Herff and co-author Dr Tanja Schultz, both from the Karlsruhe Institute of Technology, compared the pros and cons of using various brain imaging techniques to take neural signals from the brain and decode them to text. There are a variety of technologies out there, the authors said, including functional MRI and near infrared imaging that detect neural signals based on the metabolic activity of neurons. Another method can detect electromagnetic activity of neurons responding to speech. But there was one method in particular, called electrocorticography, which stood out in the new review, the authors said. This technique uses a brain-to-text system. demonstrated on epilepsy patients who already had electrode grids implanted for treatment of their condition. The patients read out texts presented on a screen in front of them while their brain activity was recorded. This formed the basis of a database of patterns of neural signals that could now be matched to speech elements or 'phones'. When the researchers included language and dictionary models in their algorithms, they were able to decode neural signals to text with a high degree of accuracy. There are a variety of technologies out there, the authors said, including functional MRI (stock image pictured) and near infrared imaging that detect neural signals based on the metabolic activity of neurons COULD HACKERS GET INSIDE YOUR BRAIN? Experts at the University of Washington have revealed how hackers could inserting images into dodgy apps and recording our brain's unintentional reaction using brain-computer interfaces. For example, when playing a video game users may see logos of familiar brands pop-up on the screen that just vanish. Hackers put those images in the game and they were recording your 'brain's unintentional response to them' using a BCI, which can be a wearable device that monitors stress levels or a cap covered in electrodes. This technology could one day be used by advertisers to gather more information about their customers. Also, police officers and government officials could use this method to convict criminals or as a 'remote lie detector test'. 'For the first time, we could show that brain activity can be decoded specifically enough to use ASR (automated speech recognition) technology on brain signals,' said Mr Herff. 'However, the current need for implanted electrodes renders it far from usable in day-to-day life.' To go from here to a functioning thought-detection device will still require some work. 'A first milestone would be to actually decode imagined phrases from brain activity, but a lot of technical issues need to be solved for that,' said Herff. Earlier this year researchers at the University of Rochester revealed a computer program that searches for the brain activity related to certain words and then use this to predict a sentence being thought, even it hasn't seen it before. They said the system is able to get the predictions right around 70 per cent of the time. Dr Andrew Anderson, a research fellow at the University of Rochester who led the study, said the technology could be used to help people who have suffered from a stroke to communicate. The researchers, whose study was published in the journal Cerebral Cortex, used brain scans taken with functional magnetic resonance imaging from 14 participants as they silently read 240 unique sentences.
-
 ARTICLE
 
 Netflix Ceo: TV's Future includes Hallucination Pills 10/27/2016 
@@ -185,7 +176,6 @@ He went on to say that it might be possible that in the coming years someone wil
 'In twenty or fifty years, taking a personalized blue pill you just hallucinate in an entertaining way and then a white pill brings you back to normality is perfectly viable,' Mr Hastings said. 'And if the source of human entertainment in thirty or forty years is pharmacological we'll be in real trouble.' 
 His references to The Matrix '“ and to being in 'trouble' '“ recall arguments that have recently been made by tech billionaires including Elon Musk and Sam Altman. Both have suggested that it might be possible that we are part of a simulated universe '“ something that they said might be part of a virtual reality world, but could just as easily be the result of a drug-induced hallucination. 
 Mr Hastings didn't indicate whether or not Netflix would look to make such drugs itself, or how it would fend off any companies that did. But it does sound a little like something out Black Mirror, which Netflix is showing the new season of at the moment.
-
 ARTICLE
 
 Obama Admits to Rigged Elections back in 2008 10/27/2016 
@@ -196,37 +186,29 @@ Video of him answering a campaign question has surfaced to put to rest the notio
 'Well, I tell you what: it helps in Ohio that we've got Democrats in charge of the machines. [Cheering] But look, I come from Chicago, so I want to be honest, it's not as if it's just Republicans who have monkeyed around with elections in the past, sometimes Democrats have too. You know, whenever people are in power, they're '” you know, they have this tendency to try to, you know, tilt things in their direction.' 
 Watch above. 
 The Freedom Center is a 501c3 non-profit organization. Therefore we do not endorse political candidates either in primary or general elections. However, as defenders of America's social contract, we insist that the rules laid down by both parties at the outset of campaigns be respected, and that the results be decided by free elections. We will oppose any attempt to rig the system and deny voters of either party their constitutional right to elect candidates of their choice.
-
 ARTICLE
 
 Julian Assange Proof of Life Video a FAKE 10/27/2016 In today's video, Christopher Greene of AMTV reports on a fake Julian Assange Proof of Life Video. 09/27/2016 Jump 4 TRUMP 
 I saw a video on you tube today stating that Julians' attorney was murdered a couple days ago. Follow AMTV! 10/27/2016 TRUTH REVOLT http://youtu.be/PsVNKmb6jEc There's a lot of accusations going around that the 2016 election is r ... Netflix Ceo: TV's Future includes Hallucination Pills 10/27/2016 INDEPENDENT The future of TV might everyone taking hallucinogenic drugs, according to the head of Netflix. The thr ...
-
 ARTICLE
 
 Alex Jones Declares Trump Landslide Victory 10/27/2016 In today's video, Christopher Greene of AMTV reports on Alex Jones Prediction of a Donald Trump Landslide Victory. 10/27/2016 TRUTH REVOLT http://youtu.be/PsVNKmb6jEc There's a lot of accusations going around that the 2016 election is r ... Netflix Ceo: TV's Future includes Hallucination Pills 10/27/2016 INDEPENDENT The future of TV might everyone taking hallucinogenic drugs, according to the head of Netflix. The thr ...
-
 ARTICLE
 
 10/27/2016 TRUTH REVOLT http://youtu.be/PsVNKmb6jEc There's a lot of accusations going around that the 2016 election is r ... Netflix Ceo: TV's Future includes Hallucination Pills 10/27/2016 INDEPENDENT The future of TV might everyone taking hallucinogenic drugs, according to the head of Netflix. The thr ...
-
 ARTICLE
 
 Julian Assange October Surprise REVEALED 10/28/2016 In today's video, Christopher Greene of AMTV reports on the Julian Assange October Surprise & Rants about a Complacent Mainstream Media. 10/27/2016 TRUTH REVOLT http://youtu.be/PsVNKmb6jEc There's a lot of accusations going around that the 2016 election is r ... Netflix Ceo: TV's Future includes Hallucination Pills 10/27/2016 INDEPENDENT The future of TV might everyone taking hallucinogenic drugs, according to the head of Netflix. The thr ...
-
 ARTICLE
 
 BOMBSHELL! FBI Reopens Investigation on Hillary Clinton 10/28/2016 In today's video, Christopher Greene of AMTV explains somebody very powerful just pulled the rug from under Hillary Clinton. 10/27/2016 TRUTH REVOLT http://youtu.be/PsVNKmb6jEc There's a lot of accusations going around that the 2016 election is r ... Netflix Ceo: TV's Future includes Hallucination Pills 10/27/2016 INDEPENDENT The future of TV might everyone taking hallucinogenic drugs, according to the head of Netflix. The thr ...
-
 ARTICLE
 
 5 Possibilities Why Comey Reopened Hillary Email Investigation 10/29/2016 
   explains 5 possibilities why FBI Director James Comey reopened the Hillary Clinton email investigation from covering his ass to the extreme. 10/27/2016 TRUTH REVOLT http://youtu.be/PsVNKmb6jEc There's a lot of accusations going around that the 2016 election is r ... Netflix Ceo: TV's Future includes Hallucination Pills 10/27/2016 INDEPENDENT The future of TV might everyone taking hallucinogenic drugs, according to the head of Netflix. The thr ...
-
 ARTICLE
 
 World War 3 is on the Horizon 10/30/2016 In today's mini-doc, we explain the implications of the U.S. Election and why World War 3 is on the Horizon. 10/27/2016 TRUTH REVOLT http://youtu.be/PsVNKmb6jEc There's a lot of accusations going around that the 2016 election is r ... Netflix Ceo: TV's Future includes Hallucination Pills 10/27/2016 INDEPENDENT The future of TV might everyone taking hallucinogenic drugs, according to the head of Netflix. The thr ...
-
 ARTICLE
 
   
@@ -243,7 +225,6 @@ Tokyo has already rejected the report, saying they are not planning to review Ar
 Earlier in the month, Tokyo also denied Nikkei's report that Japan and Russia were discussing joint administration of the Kuril Islands. 
 'There is no change in Japan's fundamental position that Japan will conclude the peace treaty with Russia by resolving the issue of the possession of the four northern islands,' Japanese Foreign Ministry spokesman Yasuhira Kawamura told Reuters in an email at that time. 
 Russia has always insisted that any change in the status of the islands is out of the question, as it would constitute a reassessment of the results of World War II, which is expressly banned by international treaties.
-
 ARTICLE
 
 41 Days And 8 Months Later: Dissecting The Oregon Standoff Trial 10/31/2016 
@@ -314,7 +295,6 @@ The Oregon verdict will certainly color the conversation around the impending tr
 But occupiers and their supporters cooking out in downtown Portland took heart in the Oregon verdict and envisioned a long fight ahead of them on behalf of rural Americans. 
 Under downtown shade-trees, defendant Jeff Banta approached supporter David Zion Brugger, who decorated his hat and shirt with 'NOT GUILTY' buttons, and shook his hand. 
 In a hushed voice, Banta said, 'See you down the road.' Share On:
-
 ARTICLE
 
 Nuclear tensions between US, Russia reach 'dangerous' point 10/31/2016 
@@ -342,7 +322,6 @@ Tensions are bound to mount even further over the next few months as the US and 
 The rising tensions between the two nuclear powers have other experts worried. 
 'We could head into a nuclear conflict which would devastate humanity,' American writer and retired professor James Petras told Press TV earlier this month. 
 'We need to move away from this saber-rattling from Washington into a position that could come to terms with peaceful co-existence, but I don't see that on the horizon in present or the near future with either Hillary Clinton or Donald Trump as presidential candidates,' he said.
-
 ARTICLE
 
 Man in Freddy Krueger Costume Crashes Halloween Party and Shoots 5 People 10/31/2016 
@@ -351,7 +330,6 @@ A man wearing a Freddy Krueger costume opened fire at a Halloween party in Texas
 The man, dressed as the villain from the Nightmare on Elm Street horror film series, arrived at the San Antonio house party uninvited and with several other men, KENS 5 reports. Violence erupted about 5 a.m. when partygoers tried kicking out the unwelcome guests. The unidentified man dressed as Freddy Krueger whipped out a gun from his costume and fired, striking four men and one woman, authorities said. 
 All of the suspects fled, and those injured were taken to the hospital, according to the San Antonio Express-News . Their conditions were unclear Monday. 
 The incident is under investigation.
-
 ARTICLE
 
 Joint Drills Between China, Saudis To 'Fight Terrorism' 10/31/2016 
@@ -369,7 +347,6 @@ The expert further said that in the long term 'cooperation between China and Sau
 The choice of Saudi Arabia as China's partner to conduct anti-terrorist exercises is not surprising, according to an expert at the Russian Institute for Strategic Studies, Ajdar Kuratov. 
 Kuratov said that Saudi Arabia is the main economic partner of China in the Middle East, a region where growth of China's presence is particularly noticeable. 
 China's leadership is likely quite concerned with terrorism against the country and its citizens. Cases such as hostage taking on airplanes and other public places and attacks on public buildings are a big concern for the country.
-
 ARTICLE
 
 China repeatedly hacked US, stole data on nukes, FBI & war plans 10/31/2016 
@@ -385,7 +362,6 @@ US academics who work for the groups involved in China studies have also been re
 Obama administration officials have not escaped China's alleged digital predation. 
 'Among the information extracted were 5.6 million fingerprints, some of which could be used to identify undercover US government agents or to create duplicates of biometric data to obtain access to classified areas,' the report said. 
 Several organizations allegedly contribute to China's intelligence operations, including the Ministry of State Security (MSS), the People's Liberation Army (PLA), and Communist Party military, as well as the PLA General Political Department and the Party's United Front Work Department.
-
 ARTICLE
 
 Get Ready For Civil Unrest 10/31/2016 
@@ -418,7 +394,6 @@ As I write this, it is difficult for me to even imagine how horrible a Hillary C
 But at this point that appears to be the most likely outcome . 
 Out of all the candidates that we could have chosen, the American people are about to put the most evil one by far into the White House. 
 Perhaps Donald Trump can still pull off a miracle and we can avoid that fate, but time is rapidly slipping away and November 8th will be here before we know it. Share On:
-
 ARTICLE
 
 Genetically Modified Crops in U.S. Fail to Deliver Expected Yields 10/31/2016 
@@ -432,7 +407,6 @@ At the same time, herbicide use has increased in the United States, even as majo
 One measure, contained in data from the U.S. Geological Survey , shows the stark difference in the use of pesticides. Since GM crops were introduced in the United States two decades ago for crops like corn, cotton and soybeans, the use of toxins that kill insects and fungi has fallen by a third, but the spraying of herbicides, which are used in much higher volumes, has risen 21 percent. 
 By contrast, in France, use of insecticides and fungicides has fallen 65 percent and herbicide use has decreased 36 percent. 
 To Learn More:
-
 ARTICLE
 
 Wikileaks' Assange Promises Hillary's Arrest With Next Release 10/31/2016 
@@ -443,7 +417,6 @@ In a broadcast for Russia Today, a London reporter said, 'Assange will be releas
 These will be the nail in Hillary Clinton's coffin, she added. 
 Assange assured Russia has no involvement in his e-mail hacking like Democrats are claiming. The DNC servers, he said, were 'ripe for hacking' and 'riddled with holes.' 
 Video below:
-
 ARTICLE
 
 Army says 2-star general committed suicide 10/31/2016 
@@ -456,7 +429,6 @@ A written statement by the Army on Friday made no mention of what might have pro
 The Rossi family issued a statement through the Army expressing thanks for wide support and urging those who may need suicide-prevention help to seek it immediately. 
 'To the Army, he was Maj. Gen. Rossi,' it said. 'To us, he was John '” husband, dad.' 
 'We ask for the time and space to grieve in private, and for the Army to continue to better understand suicide, and to help and treat those in need,' the family statement added. 'For our family, this has been an incredibly painful time, and we ask that you continue to keep us in your thoughts and prayers. To all the other families out there, to the man or woman who may be facing challenging times, please seek assistance immediately. Compassionate and confidential assistance is available.'
-
 ARTICLE
 
 Hillary Reboots 'Vast Right-Wing Conspiracy' Playbook 10/31/2016 
@@ -479,13 +451,11 @@ Matt Lauer asked if Hillary Clinton had said the fight against Starr would be th
 The Starr report on the Clinton scandals was released months later. But what the Clintons are really proud of that is that the Democrats actually gained seats in the 1998 midterm elections, helping to cause a backfire against the GOP. 
 The GOP didn't have anywhere near the two-thirds majority in the Senate to remove Bill Clinton. In early 1999, the U.S. Senate acquitted Bill Clinton on two charges: obstruction of justice, and perjury. 
 It taught the Clintons the wrong lesson: to fight authorities if authorities questioned them '” even authorities within the Democratic Party. Clinton will be targeting and attacking President Obama's own FBI director as Obama leaves office.
-
 ARTICLE
 
 Here is Elon Musk's True Mars On Earth Plan 11/01/2016 
 GAME N GUIDE 
 Elon Musk, the founder of SpaceX recently held a Reddit Ask Me Anything session at 6:00 p.m. ET on Oct. 23. The session was said to be a follow-up to the executive's speech in Mexico last month. Musk unveiled his plans for a refueling site and eventually habitation in the methane-rich planet. SpaceX is said to have raised more questions lately than it has revealed. The inventor and conglomerate went to Twitter to announce the session, Engadget reported. For instance, the company's plan on colonizing Mars is yet to be discussed as well as the reliability of its space rockets and how it can be improved. In addition, the company also previously revealed that it would be reusing their rockets but have kept mum on how. Previously, Musk had a speech at the International Astronautical Congress in Guadalajara, Mexico in September. In the said Congress, Musk revealed his plans of sending humans to Mars apparently costing a whooping $10 billion each. Moreover he stated that humans will be turned into a multi-planetary species within the span of 40 years to a century. Musk revealed his vision with massive reusable rockets launching into a parking orbit stating that the rockets may be refueled by propellant tankers. Additionally, Musk plans to launch a thousand spaceships with a hundred people each en masse for Mars. He further revealed that a refueling station would be placed on the red planet to harvest methane fuel so settlers may come back to Earth. Hence, the first rocket to be sent is the Dragon spacecraft to search for a site to plant the refueling station followed by a spaceship with equipment to build the refueling station, LA Times reported. Musk went on to describe his ideal vision for human habitation on Mars. Musk revealed that glass panels with carbon fiber frames would be brought to the red planet to build geodesic domes on the planet's surface. Furthermore, several miner and tunneling droids would also be sent to Mars. The droids are expected to be used to build large quantities of pressurized space for industrial operations along with glass domes for green living. Watch Elon Musk's Mars colonization event in 5 minutes.
-
 ARTICLE
 
 Asteroid Warning System Found 'City-Killer' Object Heading Toward Earth 11/01/2016 
@@ -498,7 +468,6 @@ NASA director Charles Bolden told reporters in 2013 that the only response to a 
 Global asteroid detection programs found more than 15,176 near-Earth objects of all sizes with 1,562 new near-Earth objects being identified this year alone, according to International Astronomical Union's Minor Planets Center . These newly discovered near-Earth objects are part of a much larger population of more than 700,000 known asteroids in our Solar System. 
 NASA and its European partners are now focused on finding objects that are 450 feet in diameter or larger, which could devastate a city or country if they struck Earth. 
 In the event an asteroid couldn't be prevented from hitting Earth, the Planetary Defense Coordination Office would work with Federal Emergency Management Agency (FEMA), the Department of Defense, and other federal agencies to coordinate disaster response.
-
 ARTICLE
 
 Oregon Standoff Acquittal Sparks Fears of New Land Disputes 11/01/2016 
@@ -527,7 +496,6 @@ For Hansen and some others in the rural West, ownership of public land is a cons
 The Oregon occupiers had chosen, perhaps inadvertently, a part of Oregon where locals and the feds had a recent history of working together. Few who live near the sanctuary welcomed the occupiers, most of whom were from out of state. 
 Not long before the takeover began on Jan. 2, locals and federal officials had determined the fate of large swaths of land, Harney County Judge Steve Grasty, the top local administrative official, said last summer in an interview. 
 The High Desert Partnership in Harney County, a group that includes the Bureau of Land Management, the Nature Conservancy and timber business owners, had been working quietly to determine land stewardship, which Jewell credited in her statement on Friday.
-
 ARTICLE
 
 Ron Paul: Blame Government, Not Markets For Monopoly 11/01/2016 
@@ -543,7 +511,6 @@ Legislation forcing consumers to pay out-of-state sales tax on their online purc
 Many failed mergers and acquisitions result from the distorted signals sent to business and investors by the Federal Reserve's inflationary monetary policy. Perhaps the most famous example of this is the AOL-Time-Warner fiasco, which was a direct result of the Fed-created dot.com bubble. 
 In a free market, mergers between businesses enable consumers to benefit from new products and reduced prices. Any businesses that charge high prices or offer substandard products will soon face competition from businesses offering consumers lower prices and/or higher quality. Monopolies only exist when government tilts the playing field in favor of well-connected crony capitalists. Therefore those concerned about excessive corporate power should join supporters of the free market in repudiating the regulations, taxes, and subsides that benefit politically-powerful businesses. The most important step is to end the boom-bust business cycle by ending the Federal Reserve. 
 This article was published by RonPaul Institute .
-
 ARTICLE
 
 DOJ Tried Repeatedly To Kill FBI's Clinton Foundation Investigation 11/01/2016 
@@ -576,7 +543,6 @@ The new report also details a presentation that FBI officials made to the Justic
 Some of the Journal's sources said that the DOJ's career public integrity prosecutors did not believe that the case was strong. 
 'Others said that from the start, the Justice Department officials were stern, icy and dismissive of the case,' The Journal reported. 
 DOJ officials told the FBI at the meeting additional investigative tools '” subpoenas, interviews or a grand jury '” would not be authorized.
-
 ARTICLE
 
 Dakota Access Pipeline: More Than 100 Arrested as Protesters Ousted From Camp 11/01/2016 
@@ -645,7 +611,6 @@ Protest camp coordinator Mekasi Horinek told NBC affiliate KFYR on Wednesday tha
 'We don't have any plans on retreating. If they're going to come in here and they're going to arrest one of us, they're going to arrest every one of us,' Horinek said. 'We're going to stand in unity, we're going to stand in prayer, we're going to stand in peace.' 
 Standing Rock Sioux Tribe chairman Dave Archambault II told NBC News on Sunday the tribe had asked the U.S. Department of Justice to intervene in the escalating situation with law enforcement. 
 'The DOJ should be enlisted and expected to investigate the overwhelming reports and videos demonstrating clear strong-arm tactics, abuses and unlawful arrests by law enforcement,' Chairman Dave Archambault II said.
-
 ARTICLE
 
 Vatican Makes Unprecedented Agreement With Chinese Gov't 11/01/2016 
@@ -666,7 +631,6 @@ Having failed to eradicate religion, the Chinese government, which is officially
 'We have to remember first of all we are a citizen of this country. We are a citizen of the Kingdom of God, but that comes second,' Pastor Wu Weiqing of the state-owned Haidian Church in Beijing told BBC. He further stated that if Jesus were alive today, he would probably be a member of the Communist Party. While the deal between the Vatican and Beijing could give the Catholic Church greater access to Chinese Christians, it could also give the Chinese government greater control over the Church and organized religion. 
 Pope Francis 'would not accept any agreement that would harm the integrity of faith of the universal Church,' the Bishop of Hong Kong, Cardinal John Tong argued in July, according to the WSJ. 
 The future of the Catholic Church in China remains shrouded in uncertainty. The new agreement between Beijing and the Vatican could be a positive step forward or a dangerous surrender of religious power to political organizations like the Chinese Patriotic Catholic Association and the State Administration for Religious Affairs.
-
 ARTICLE
 
 Russia and NATO hold war games next to each other 11/01/2016 
@@ -674,7 +638,6 @@ EXPRESS Around 680 troops from 32 NATO states and partner countries '“ including
 Russian troops on exercise 
 Around 680 troops from 32 NATO states and partner countries are taking part 
 Map of Serbia and Montenegro, where the exercises are taking part 'This seriously worsens the regional security and the security of those countries that participate in these drills and this activity. 'I think it's a double signal. First of all, it's a signal to western public opinion that all NATO actions on its eastern flank are calibrated and do not transcend the framework of reasonable defence. 'Secondly, it's also an apparent attempt to send a signal to us, so that Russia will not react in what they believe to be an excessive and aggressive manner.'
-
 ARTICLE
 
 FBI sees no ties between Trump, Putin 11/01/2016 
@@ -691,7 +654,6 @@ At some point during its investigation, the FBI questioned Paul Manafort, Trump'
 The bureau's agents also investigated an email channel between Trump and the Alfa Bank, one of Russia's biggest banks. 
 After weeks of detailed investigation, the FBI concluded that the connection was nothing more than marketing emails or spam 
 Trump has rejected Clinton's allegations against Russia, and has pledged to work with Moscow and earn Putin's respect.
-
 ARTICLE
 
 NATO, Russia To Hold Parallel Exercises In Balkans 11/02/2016 
@@ -708,7 +670,6 @@ Montenegro has taken a pro-Western stance which has been awarded by NATO with an
 The NATO invitation to Montenegro has met strong opposition from Russia. 
 Meanwhile, Montenegrin officials have accused Russia of staging an alleged coup in October to topple its pro-Western government because of the NATO accession bid. 
 Serbia, a NATO partner, has held exercises with the Western alliance, but not such a large one or with foreign troops and equipment participating on its soil.
-
 ARTICLE
 
 S Korea coast guard opens fire on China boats 11/02/2016 
@@ -726,7 +687,6 @@ The shooting left Beijing 'strongly dissatisfied' with China's Foreign Ministry 
 Numerous incidents have occurred in recent years between South Korea's coast guard and Chinese fishing boats venturing across international waters in search of fish. 
 On October 10, Seoul said it had lodged a formal complaint with Beijing over the alleged sinking of a South Korean coast guard vessel by Chinese fishermen on October 7. 
 On September 29, three Chinese fishermen died after their fishing boat was set on fire by South Korean coast guard members who threw grenades into their vessel.
-
 ARTICLE
 
 Mark Ruffalo Reportedly Placed on U.S. Terrorist Watch List 11/02/2016 
@@ -736,11 +696,9 @@ The 'The Kids Are All Right' and 'Zodiac' star was placed on the terror advisory
 Written and directed by Josh Fox, the film, which premiered on HBO this summer, put a light on the communities that are impacted by the natural gas drilling boom in the U.S. 
 While Ruffalo, who will next appear as The Hulk in 'The Avengers,' may now face tedious secondary screenings at airports, the 43-year-old isn't too put off by the whole situation. 
 [It's] pretty f'“kin' funny,' he tells the December issue of GQ magazine .
-
 ARTICLE
 
 Putin being FRAMED at UN for War Crimes in Syria Explained 11/02/2016 In today's video, Christopher Greene of AMTV explains why the UN is framing Vladimir Putin for War Crimes in Syria. 11/02/2016 PRESS TV Russia's military and NATO forces are holding parallel military exercises in two neighboring Balkan countrie ... S Korea coast guard opens fire on China boats 11/02/2016 PRESS TV South Korean coast guard vessels have opened fire on Chinese trawlers allegedly fishing illegally off South ... FBI Releases Clinton Foundation Investigation Records 11/02/2016 DAILY CALLER The FBI on Tuesday released documents related to a now-closed federal investigation of an alleged pay-to ... AMTV Archives
-
 ARTICLE
 
 Comey Investigation a Red Herring to Cover Up Wikileaks Dump 11/01/2016 In today's video, Christopher Greene of AMTV explains why the Comey Investigation into Hillary Clinton's emails is a Red Herring to Cover Up Wikileaks Data Dump. 10/10/2016 Citizen Quasar 
@@ -749,7 +707,6 @@ The criminal gang that controls the United States today is systemically inherent
 In the meantime, Americans will continue saying the Pledge of Allegiance and continue thinking this is patriotic and puzzling over how Americans couldever be taught the definition of a right on such a wide scale. Citizen Quasar 
 Further, here is some speculation: 
 Somebody shoots Hillary Clinton dead two days before the election. This gives President Obama an excuse to 'temporarily' delay the election. Follow AMTV!
-
 ARTICLE
 
 Carter Reveals Upgrades To US Long Range Rocket 11/02/2016 
@@ -761,7 +718,6 @@ During a morning session at CSIS Carter spoke of the new innovative features of 
 'A prominent theme of SCO's work is spearheading creative and unexpected new ways to use our existing missiles and advanced munitions, and across varied domains', he said, adding, ''¦ By integrating an existing seeker onto the front of the missile, they're enabling it to hit moving targets, both at sea as well as on land. With this capability, what was previously an Army surface-to-surface missile system can project power from coastal locations up to 300 kilometers into the maritime domain.' 
 Carter detailed the SCO's plans to utilize seeker technology that the Defense Department has already developed so the missile system can hit targets both on sea and land. 
 Lockheed Martin was awarded the $174 million contract for the long range artillery rocket system in May 2015. Ken Musculus, vice president of tactical missiles at the defense contractor said at the time that ATACMS is 'reliable and proven in combat, which is why it continues to be our customers' choice for long-range strike requirements.'
-
 ARTICLE
 
 Russia-US Plutonium Deal No Longer In Effect 11/02/2016 
@@ -774,7 +730,6 @@ Russia suspended the deal ' due to drastic changes of circumstances, the rise of
 For the agreement to be resumed, Washington should reduce the US military presence on the territory of NATO members that joined the bloc after 2000, cancel its Magnitsky Act which bans entry to the US to a list of Russian citizens, as well as lift other anti-Russian sanctions and compensate the loss Moscow suffered as a result of such policy. 
 The bill on suspension '“ which is a ' forced measure ,' according to Russian Foreign Minister Sergey Lavrov '“ was first submitted by the president's office earlier this month and then approved by parliament. 
 Commenting on the suspension of the deal, Russian Deputy Foreign Minister Sergey Ryabkov has said that it would not affect any of Moscow's other commitments related to international nuclear security and does not interfere with the Nuclear Non-Proliferation Treaty.
-
 ARTICLE
 
 Half Of Russians Fear Syria Could Spark WW3 11/02/2016 
@@ -786,7 +741,6 @@ The level of awareness about the situation in Syria and the Russian Air Force op
 A similar poll conducted a year ago by the independent Levada Center showed that over 70 percent of Russian citizens supported the air operations against IS terrorists in Syria, and almost a half of them agreed that it was right for Russia to support the government of Syria's democratically-elected President Bashar Assad. 
 A different poll conducted earlier this month by the state-run research center VTSIOM showed that 73 percent of Russians believed that Western criticism of the air force's counter-terrorism operation in Aleppo, Syria, was ungrounded and prejudiced. Only 6 percent said the allegations of wrongdoing on the part of the Russian military have some basis in reality. 
 Russia first deployed an air force contingent in Syria in 2015, after receiving a request for military help from the Syrian government, which is currently battling Islamic State and affiliated groups. Russian war planes began launching airstrikes on terrorists in Syria on September 30, 2015. Their work has aided the Syrian military in achieving considerable success in driving jihadist forces out of the country.
-
 ARTICLE
 
 FBI Releases Clinton Foundation Investigation Records 11/02/2016 
@@ -807,7 +761,6 @@ Update: Clinton campaign press secretary Brian Fallon questioned the release.
 The FBI issued a statement late Tuesday afternoon saying that the file was released in response to a FOIA request. 
 'The FBI's Records Management Division receives thousands of FOIA requests annually which are processed on a first in, first out (FIFO) basis,' the statement reads. 
 'By law, FOIA materials that have been requested three or more times are posted electronically to the FBI's public reading room shortly after they are processed. Per the standard procedure for FOIA, these materials became available for release and were posted automatically and electronically to the FBI's public reading room in accordance with the law and established procedures.'
-
 ARTICLE
 
 Russia's Most Potent Weapon: 'Hoarding Gold' 11/02/2016 
@@ -849,7 +802,6 @@ The reality is that the United States is $20 trillion dollars in debt, and event
 Ultimately, the United States, Russia and China are all controlled by centralized power-hungry tyrants attempting to command powerful global bureaucracies like the IMF, the World Bank, SWIFT, New Development Bank and the Asian Infrastructure Investment Bank. 
 It's not Russian nuclear weapons that people should fear, as the policy of mutually assured destruction essentially voids any benefit of a state launching a first-strike nuclear attack. The true threat to America is our economic house of cards, built upon the back of a neoliberal trade policy that puts the 'rights' of corporations over that of people . 
 This article was written by Jay Syrmopoulos and originally published at The Free Thought Project .
-
 ARTICLE
 
 China Airport Security Robot Gives Electroshocks 11/02/2016 
@@ -885,7 +837,6 @@ Not only will the drones be equipped with tasers, but there is also talk of them
 This is actually already being done in India , the first country to have approved the use of drones attached with 'non-lethal' weapons. And, just this week, British tabloid, The Sun , had a feature entitled 'Vladimir Putin's Russia is preparing an army of robots and drones to take on its enemies, Deputy PM Dmitry Rogozin admits.' Given the available facts, this title no longer seems so deliberately sensational. 
 Clearly we are entering a potentially dangerous convergence of expanding robotic artificial intelligence along with the political will to continue allowing robots more and more autonomy as they carry out the traditional duties of the military and police. Some experts argue that the precision of robotics will curb many of the abuses we have seen from our military and police. But is that the trend we are actually seeing? Or will automated systems of violent control inevitably lead to even greater industrial-level suppression and killing? 
 Nicholas West writes for ActivistPost.com . This article may be republished in part or in full with author attribution and source link .
-
 ARTICLE
 
 Suspect captured in 'ambush-style' killings of two Iowa cops 11/02/2016 
@@ -918,7 +869,6 @@ In a statement, Iowa Gov. Terry Branstad called the attack on the officers 'an a
 Iowa Sen. Joni Ernst extended her thoughts and prayers to the families of the officers killed. 
 'Although the investigation is still unfolding, what appears to be an ambush attack of police in the line of duty is an attack on the community at large and all of the men and women who risk their lives every day to protect us,' Ernst said. 'This was a senseless act of violence and it cannot be tolerated.' 
 Finney and Haley report for The Des Moines Register. Follow them on Twitter: @newsmanone and @charlyhaley . Stanglin reports for USA TODAY in McLean, Va.
-
 ARTICLE
 
 Bundy brothers discharged from Oregon jail, headed to Nevada with U.S. Marshals 11/02/2016 
@@ -927,7 +877,6 @@ Ammon Bundy and his older brother Ryan Bundy, both acquitted last Thursday of fe
 The Bundys were discharged from the Multnomah County Detention Center about 7:45 a.m. Wednesday to the custody of the U.S. Marshals Service, according to a jail spokeswoman. 
 The two are being flown to Nevada, where they're among 19 people indicted on federal charges in the 2014 armed standoff with federal agents over grazing rights near their father Cliven Bundy's ranch. 
 In Nevada, they face 16 felony counts, including extortion, obstruction of justice, conspiracy to commit an offense against the United States, conspiracy to impede or injure a federal officer, assault on a federal officer, and threatening a federal officer.
-
 ARTICLE
 
 Warning or threat? Hillary hints at second civil war if Trump wins 11/02/2016 
@@ -945,7 +894,6 @@ Liberals especially the Clinton are always projecting. Anything that they accuse
 Moreover, Trump has spent a great deal of time talking about policies and issues while Clinton & Co. have done absolutely nothing but engage in fear-mongering and fingerpointing. 
 Still, we have to ask '” was Clinton's 'hint' a 'warning' or a 'threat?' 
 Related:
-
 ARTICLE
 
 U.S. militia girds for trouble as presidential election nears 11/02/2016 
@@ -975,19 +923,16 @@ Over the past week, some prominent Trump supporters have hinted at violence.
 'If Trump loses, I'm grabbing my musket,' former Illinois Representative Joe Walsh wrote on Twitter last week. Conservative commentator Wayne Root fantasized about Clinton's death while speaking at a Trump rally in Las Vegas on Sunday. 
 Back in Georgia, the Three Percent Security Force wrapped up rifle practice in the midday sun. They then headed further into the trees to tackle an obstacle course with loaded pistols at their sides, ready for whatever may come. 
 'We've building up for this, just like the Marines,' he said. 'We are going to really train harder and try to increase our operational capabilities in the event that this is the day that we hoped would never come.' Share On:
-
 ARTICLE
 
 Donald Trump a KGB Spy? 11/02/2016 In today's video, Christopher Greene of AMTV reports Hillary Clinton campaign accusation that Donald Trump is a KGB spy is about as weak and baseless a claim as a Salem witch hunt or McCarthy era trial. It's only because Hillary Clinton is losing that she is lobbing conspiracy theory. Citizen Quasar 
 The way I see it, one of two things will happen: 
 1. Trump will win by a landslide but the election will be stolen via electronic voting, just like I have been predicting for over a decade, and the American People will accept the skewed election results just like they accept the TSA into their crotches. 
 2. Somebody will bust a cap in Hillary's @$$ killing her and the election will be postponed. Follow AMTV!
-
 ARTICLE
 
 Putin grants Steven Seagal Russian citizenship 11/03/2016 
 DAILY MAIL President Vladimir Putin signed off Thursday on a decree granting Russian citizenship to American action hero actor Steven Seagal, the latest high-profile passport handout to a Western celebrity. Hollywood star Seagal and judo-loving Kremlin tough guy Putin have struck up a bromance in recent years, with Seagal visiting Russia repeatedly and defending Moscow's 2014 annexation of Crimea from Ukraine. 'He was asking quite insistently and over a lengthy period to be granted citizenship,' Kremlin spokesman Dmitry Peskov told journalists. 'He is well known for his warm feelings towards our country and has never hidden them.' DUAL CITIZENSHIP IN THE U.S. Americans are allowed to hold dual citizenship, such as Steven Seagal now has with Russia. U.S. law does not mention dual nationality not does it require its citizens to choose one nationality over the other. People that become U.S. citizens are asked to make a pledge of loyalty to the U.S., renouncing all previous allegiances, but the statement is more symbolic than contractual. However, there are rare cases in which a U.S. citizen can forfeit their citizenship by becoming the citizen of another nation. That can happen in instances when an American citizen joins the armed forces of a foreign nation or they make a declaration of allegiance to a foreign state with the express purpose of relinquishing their U.S. nationality. Seagal is the latest in a string of high-profile Westerners to be granted Russian citizenship after buddying up with Putin. Veteran French actor Gerard Depardieu was given a Russian passport in 2013 after the star became a tax exile in ire over rate hikes in his native country. Putin has also handed out citizenship to American boxer Roy Jones Jr after sipping tea with him in Crimea and to American mixed martial artist Jeff Monson. Seagal's fame peaked in the late 1980s and early 1990s with films such as 'Under Siege' and 'Above the Law', but he remains hugely popular in eastern Europe and was granted Serbian citizenship in January. Like Depardieu, he has previously hung out with Putin, a fellow martial arts fan, and other strongmen leaders from the former Soviet Union. After Russia's annexation of Crimea, Seagal called Putin 'one of the great living world leaders' and even performed with his blues band in the annexed Black Sea peninsula. In August, veteran Belarussian leader Alexander Lukashenko made Seagal eat one of his homegrown carrots in an awkward encounter that drew mockery online.
-
 ARTICLE
 
 New bionic eye implant connects directly to brain 11/03/2016 
@@ -1000,13 +945,11 @@ This new system goes one step further by sending signals directly to the brain. 
 The next step is to connect the implant to a camera on a pair of glasses, and the company plans to seek FDA approval in 2017 to get the go ahead to conduct these trials. 
 UCLA neurosurgeon Nader Pouratian, who implanted the stimulator, said the results of the surgery are promising. 
 'Based on these results, stimulation of the visual cortex has the potential to restore useful vision to the blind, which is important for independence and improving quality of life,' he said.
-
 ARTICLE
 
 American Express disowns Pink Floyd singer Roger Waters because of pro-Palestinian views 11/03/2016 
 MONDOWEISS When it comes to aiding Israeli Apartheid, American Express is just another brick in The Wall, according to a new report. Roger Waters, lead singer behind Pink Floyd, lost a multimillion dollar American Express sponsorship for his 2017 US+Them tour after expressing solidarity this month with Palestinian students trying to end Israel's apartheid system of military occupation using the same protest tactic that helped dismantle South African Apartheid (and, earlier, America's Jim Crow): Boycott, Divestment and Sanctions, or BDS. 'I'm going to send out all of my most heartfelt love and support to all those young people on the campuses of the universities of California who are standing up for their brothers and sisters in Palestine and supporting the BDS movement,' Rogers said, according to CBS News , 'in the hope that we may encourage the government of Israel to end the occupation.' American Express decided it would be a good idea to leak the cancellation of the contract to the New York Post , where Page Six's Emily Smith has the exclusive story . 'Roger is putting on a huge show. The company was asked to sponsor his tour for $4 million, but pulled out because it did not want to be part of his anti-Israel rhetoric,' an American Express spokesman told the paper. 'We never committed to sponsoring Roger Waters' upcoming tour. When we were approached with the options, we passed on making a bid.' American Express had helped sponsor Waters' Oldchella Desert Trip festival (Coachella for the senior set featuring Neil Young, Bob Dylan, Paul McCartney, and the Rolling Stones) where he made the comments expressing support for human rights. But without anybody even asking them, American Express decided it had to go out of its way to bash Waters for 'putting on a huge show.' Noteworthy about American Express's decision is that it comes even as Waters included more mainstream political views, like featuring in the performance a line of children wearing shirts that said 'Derriba el muro,' (Tear down the wall). He also showed Trump in a Klan outfit, and the show featured a floating pig balloon that calls the Republican candidate an 'Ignorant, lying, racist, sexist pig,' CBS reported. Waters more mainstream kinds of leftist protest didn't make up for his audacious display of solidarity with his fellow human beings living and dying under a ceaseless occupation. American Express has also sponsored Beyonce's performances, where she has used art to make reference to police oppression of communities of color . But AmEx lost its nerve when Waters brought up Palestinian rights. According to the New York Post , Waters has known that there are consequences for standing up against the occupation, and that keeps others silent. 'I have been accused of being a Nazi and an anti-Semite for the past 10 years. My industry has been particularly recalcitrant in even raising a voice [against Israel] . . . I've talked to a lot of them, and they are scared s '“ '“ tless. If they say something in public, they will no longer have a career. They will be destroyed,' he said, according to the Post. But Waters is already famous, and 75, so the stakes aren't the same as for young artists. Update (11/1/16) This article originally quoted the New York Post as saying that Citi had assumed sponsorship of the tour after American Express dropped out, but after publication a representative of Citi contacted us with this clarification: In your article ' American Express disowns Pink Floyd singer Roger Waters because of pro-Palestinian views ', it mentions that 'Citibank grabbed the opportunity to sponsor one of the biggest and best acts of the 20th century.' However, Citi is not a sponsor of Roger Waters' upcoming tour. Two weeks ago, Citi offered a limited time pre-sale of tickets for cardmembers for select shows, as we do for thousands of concerts by different artists every year. The pre-sale has ended and we have no plans to work with this artist in the future. 
 '“ See more at: http://mondoweiss.net/2016/10/american-express-palestinian/#sthash.cGAw7DW9.dpuf
-
 ARTICLE
 
 Police fire rubber bullets at pipeline protesters 11/03/2016 
@@ -1029,7 +972,6 @@ Wednesday, the Department said The U.S. Army Corps of Engineers gave Morton Coun
 Morton County called the situation a 'standoff' and, in a press release, stated that 'protesters involved in this activity are violating numerous federal and state laws.' 
 E'sha Hoferer , who is a member of the Walker River Paiute Tribe and who says he is in Standing Rock to protect the water for his children and grandchildren, told NBC News before Wednesday's encounter with law enforcement that the construction of the pipeline is 'desecrating a lot of sacred sites' and that 'a lot of the traditional ecological knowledge that we have '“ that Standing Rock has '“ shows that we have ceremonial sites up there, sacred sites, burial sites,' referring to the hill at the center of the standoff. 
 The last big clash between police and demonstrators took place on Thursday, October 27, when 141 protesters were arrested .
-
 ARTICLE
 
 Report: FBI's Clinton Foundation Probe Will 'Likely' Lead to Indictment 11/03/2016 
@@ -1043,7 +985,6 @@ As FBI agents are 'actively and aggressively pursuing this case,' they'll interv
 While on the air, Fox News reporter Bret Baier, citing unnamed sources, said that Clinton's private email server has been breached by at least five separate foreign intelligence hackers. 
 'I pressed again and again on this very issue, and these sources said, 'Yes, the investigations will continue'' if Clinton defeats rival Donald Trump on Election Day, Baier said on Fox News. 
 'And barring some obstruction in some way, they believe they'll continue to likely an indictment,' Baier added .
-
 ARTICLE
 
 Assad: US waging proxy war in Syria against Russia & Iran 11/03/2016 
@@ -1071,7 +1012,6 @@ The president said Syria has existed as a multiethnic multiconfessional entity f
 The war has been a huge ordeal for Syrian society, but it has made Syrians as a nation more united, not less, he added. 
 'Many Syrians before the war didn't tell the difference between being fanatic and being extremist, between being extremist and being terrorist. Those borders weren't clear for many,' the president said. 'Because of the war, because of the destruction, because of the heavy price that affected every Syrian, many Syrians learned the lesson and now they know that the only way to protect the country and to preserve the country is to be homogenous, to live with each other, to integrate, to accept, to love each other.' 
 'That's why I think the effect of the war, in spite of all the bad aspects of any war like this war, but this aspect was positive for the Syrian society. So, I'm not worried about the structure of Syrian society after the war. I think it's going to be healthier,' Assad added.
-
 ARTICLE
 
 November supermoon biggest in nearly 70 years 11/03/2016 
@@ -1083,7 +1023,6 @@ Instead of a supermoon, astronomy site Slooh.com is calling it a 'mega beaver mo
 According to the Old Farmer's Almanac , the November moon was named the beaver moon partly because, 'for both the colonists and the Algonquin tribes, this was the time to set beaver traps before the swamps froze, to ensure a supply of warm winter furs.' 
 Contributing: Mary Bowerman, USA TODAY 
 Follow @MaryBowerman on Twitter. Follow Doyle Rice at @USATODAYWeather . Share On:
-
 ARTICLE
 
 RT crew comes under fire as Aleppo militants launch massive new assault (VIDEO) 11/03/2016 
@@ -1096,7 +1035,6 @@ Earlier on Wednesday, the Russian military said that last week's attempts by the
 Russia and Syria halted airstrikes on eastern Aleppo two weeks ago amid a flurry of criticism from the West over civilian casualties in the city. Moscow said civilians were being held by the militants as human shields, but agreed to keep warplanes away from the city. 
 The offer to leave Aleppo by Friday night was rejected by some groups controlling the eastern part of the city. 
 Russia's earlier attempts to allow militants to leave and civilians to be evacuated from eastern Aleppo were thwarted by the more belligerent groups, which opened fire at anyone trying to use the corridors '“ both those meant for armed people and unarmed civilians.
-
 ARTICLE
 
 US-led airstrike kills at least 30 Afghan civilians 11/03/2016 
@@ -1112,7 +1050,6 @@ Taliban militants briefly overran the city of Kunduz, the provincial capital wit
 Taliban militants were removed from power following the 2001 US-led invasion of Afghanistan, but they have stepped up their activities in recent months, attempting to overrun several provinces. 
 Afghan forces have been engaged in fierce clashes with Taliban to contain the ongoing insurgency across various parts of the violence-wrecked country. 
 The rising violence in Afghanistan comes despite the presence of thousands of foreign troops in the country.
-
 ARTICLE
 
 Protesters, Police Still Clashing Over Disputed North Dakota Pipeline 11/03/2016 
@@ -1128,11 +1065,9 @@ Several protesters standing in the river held mirrors directed at law enforcemen
 One law enforcement official had a very different view of the protest. 'In my 27 years in law enforcement, I have never seen such an absolute disregard for the law or other people's rights because of someone else's ideology,' said Cass County, N.D., Sheriff Paul Laney. 
 The Standing Rock Sioux Tribe says the Dakota Access Pipeline construction route crosses land that is sacred to its members. And the tribe worries a pipeline spill could pollute local water. The tribe wants the federal government to stop work on the pipeline and conduct a full environmental impact study of the pipeline. 
 The Morton County Sheriff's Department says one person was arrested for 'conspiracy to commit obstruction of a government function.' In a press release, the agency says the protester was buying canoes and kayaks for others to cross the creek.
-
 ARTICLE
 
 A Coup Taking Place in the United States 11/03/2016 In today's video, Christopher Greene of AMTV reports on Steve Pieczenik controversial report that a coup d'Ã©tat is taking place in the United States of America. Putin grants Steven Seagal Russian citizenship 11/03/2016 DAILY MAIL President Vladimir Putin signed off Thursday on a decree granting Russian citizenship to American action her ... New bionic eye implant connects directly to brain 11/03/2016 RUSSIA TODAY Scientists may have made a significant breakthrough in restoring human sight, as a woman who had been blin ... American Express disowns Pink Floyd singer Roger Waters because of pro-Palestinian views 11/03/2016 MONDOWEISS When it comes to aiding Israeli Apartheid, American Express is just another brick in The Wall, according ... AMTV Archives
-
 ARTICLE
 
 Juror explanation for Ammon Bundy verdict 11/03/2016 
@@ -1179,7 +1114,6 @@ A few outstanding things Ammon testified to stood out to me. There apparently we
 Q. Why do you wish to remain anonymous? 
 A: Because I'd rather not encounter any of the angry commenters on your articles, I prefer to remain simply as Juror 4. I read on twitter that Matt Schindler (one of the defense attorneys) is receiving threats, which is very troubling to me. 
 '” Maxine Bernstein
-
 ARTICLE
 
 Doug Casey: A Civil War Could Be in the Cards After the Election 11/03/2016 
@@ -1233,21 +1167,17 @@ But the country's prosperity was still increasing in those days. Now we're on th
 Contrary to what most believe, the US hasn't had a real civil war yet. The unpleasantness of 1861'“65 was actually a war of secession. A civil war is one where two or more groups are vying for the control of the same government, as in Spain during the 30's, between the fascists and the communists. 
 But this time in the US it could turn into a real civil war. I don't know what form it would take, but a lot of things could be really tough going: economically, financially, politically, socially, militarily. Most important, there's a cultural divide that's arisen in the US. 
 I don't think most people are even aware of what is going on. When you walk outside, the sun is shining. Children are still playing. You can go down to the Wal-Mart and buy cheap goods. Everything looks pretty good on the surface, despite the fact everyone's credit card is maxed out. But I think it's all a hologram that's about to be exposed. So, hold on to your hat.
-
 ARTICLE
 
 Juror explanation for Ammon Bundy verdict 11/03/2016 OREGONLIVE Juror 4 has so far provided the only public explanation of the behind-the-scenes discussions that led to t ... Doug Casey: A Civil War Could Be in the Cards After the Election 11/03/2016 LEW ROCKWELL (Source: The 2nd American Civil War by Richard Hubal, via MN Artists) Nick Giambruno: The US preside ... Putin grants Steven Seagal Russian citizenship 11/03/2016 DAILY MAIL President Vladimir Putin signed off Thursday on a decree granting Russian citizenship to American action her ... AMTV Archives
-
 ARTICLE
 
 MSM Caught Preparing Hillary Victory Results Prior to Election 11/03/2016 
 In today's video, Christopher Greene of AMTV reports the Mainstream media caught preparing Hillary Clinton election results prior to November 8. Juror explanation for Ammon Bundy verdict 11/03/2016 OREGONLIVE Juror 4 has so far provided the only public explanation of the behind-the-scenes discussions that led to t ... Doug Casey: A Civil War Could Be in the Cards After the Election 11/03/2016 LEW ROCKWELL (Source: The 2nd American Civil War by Richard Hubal, via MN Artists) Nick Giambruno: The US preside ... Putin grants Steven Seagal Russian citizenship 11/03/2016 DAILY MAIL President Vladimir Putin signed off Thursday on a decree granting Russian citizenship to American action her ... AMTV Archives
-
 ARTICLE
 
 Julian Assange to Speak Prerecorded RT Interview (11/5/16) 11/03/2016 
 In today's video, Christopher Greene of AMTV reports on a prerecorded Julian Assange interview to be aired prior to the U.S. Election on Saturday November 5, 2016. Start Your FREE 14-day trial! Juror explanation for Ammon Bundy verdict 11/03/2016 OREGONLIVE Juror 4 has so far provided the only public explanation of the behind-the-scenes discussions that led to t ... Doug Casey: A Civil War Could Be in the Cards After the Election 11/03/2016 LEW ROCKWELL (Source: The 2nd American Civil War by Richard Hubal, via MN Artists) Nick Giambruno: The US preside ... Putin grants Steven Seagal Russian citizenship 11/03/2016 DAILY MAIL President Vladimir Putin signed off Thursday on a decree granting Russian citizenship to American action her ... AMTV Archives
-
 ARTICLE
 
 Analyst: Most Americans like neither Candidate 11/04/2016 
@@ -1262,7 +1192,6 @@ More than 80 percent of voters say the presidential campaign has left them repul
 'President Ford once said, when he was a leader in the House of Representatives, that impeachment is for whatever the Congress wants it to be. Simply the whiff of impropriety or criminal behavior would make any partisan congressman see that as reason enough for such an article of impeachment. Compound that with an actual indictment and it's guaranteed,' he said. 
 The commentator said, 'Trump has a different set of problems if he were to be inaugurated in January. His positions are so outlandish that even his own party, which by and large has rejected him, would pounce on anything he does that would jeopardize their chances as a party and individually in the next off-year elections of 2018.' 
 'We have to look inward as to what kind of nation we are that we have degenerated to the point where a majority of Americans want neither candidate to win,' he said in his concluding remarks.
-
 ARTICLE
 
 Crack in Earth's magnetic shield detected 11/04/2016 
@@ -1277,7 +1206,6 @@ Numerical simulations performed by the GRAPES-3 researchers, including Pravata K
 Earth's magnetic field bent these particles about 180 degree, from the day-side to the night-side of the Earth where it was detected as a burst by the GRAPES-3 muon telescope around mid-night on 22 June 2015. 
 The data was analysed and interpreted through extensive simulation over several weeks by using the 1280-core computing farm that was built in-house by the GRAPES-3 team of physicists and engineers at the Cosmic Ray Laboratory in Ooty. 
 Solar storms can cause major disruption to human civilisation by crippling large electrical power grids, global positioning systems (GPS), satellite operations and communications.
-
 ARTICLE
 
 Feds warn NYC officials about possible al Qaeda attack 11/04/2016 
@@ -1301,11 +1229,9 @@ The FBI did not comment specifically about the threat against the three states, 
 'The FBI, working with our federal, state and local counterparts, shares and assesses intelligence on a daily basis and will continue to work closely with law enforcement and intelligence community partners to identify and disrupt any potential threat to public safety,' an FBI official said. 
 Friday's threat followed a report by NBC News that the US government believes hackers from Russia or other countries may try to unleash cyberattacks to wreak havoc ahead of Election Day. 
 An effort coordinated by the White House and the Department of Homeland Security '” and including the CIA, the National Security Agency and other elements of the Department of Defense '” is being conducted to avert attacks, NBC News reported.
-
 ARTICLE
 
 Bill Clinton and Hillary Lolita Express Pedophilia Ring 11/04/2016 In today's video, Christopher Greene of AMTV breaks down the connection between convicted felon Jefferey Epstein 'known pedophile' and the Clinton's. Will this be the next shoe to drop in the Wikileaks Podesta dump? Will find out this weekend in an Exclusive RT interview with the man himself Julian Assange. Analyst: Most Americans like neither Candidate 11/04/2016 PRESS TV US Democratic presidential candidate Hillary Clinton's unpopularity among American voters has reached a new h ... Crack in Earth's magnetic shield detected 11/04/2016 DNA INDIA The world's largest and most sensitive cosmic ray monitor, located in India, has recorded a burst of galact ... Feds warn NYC officials about possible al Qaeda attack 11/04/2016 NEW YORK POST New York City law enforcement authorities are on high alert after receiving a warning by the feds about ... AMTV Archives
-
 ARTICLE
 
 The man behind the Trump rally disturbance in Reno 11/06/2016 
@@ -1332,7 +1258,6 @@ Later on Facebook, Crites wrote that he has no connection with the campaign of D
 'Take what happened to me tonight as a classic example of dictator incitement of violence '” against your own Republican brother with a stupid sign,' he wrote. The post and his entire account were taken down soon afterward as some Trump supporters on social media called him a 'Clinton thug,''Hillary shill' and 'Trump assassin.' 
 Shortly after the incident at the rally, Trump returned to the stage to raucous applause, thanking the Secret Service and launching back into his prepared remarks. His campaign later issued a statement also thanking the Secret Service and his supporters. 
 Follow Seth A. Richardson on Twitter: @SethARichardson
-
 ARTICLE
 
 US Military Hackers Claim Penetration of Russia 11/07/2016 
@@ -1349,7 +1274,6 @@ Russia has denied any responsibility for the Clinton-related hacks and links bet
 Moreover, recent media reports in the United States indicate that Clinton's private server she used for official business during her tenure as secretary of state had been penetrated by at least five foreign intelligence services. 
 The emails have proved especially embarrassing for the Clinton campaign by disclosing decisions in the Clinton State Department that favored large donors to the Clinton Foundation in what appear to be 'pay-for-play' schemes of selling access and influence. 
 Moreover, the activity appears to coincide with lucrative speaking engagements for former President Bill Clinton.
-
 ARTICLE
 
 Is America On The Brink Of Civil War? 11/07/2016 
@@ -1368,7 +1292,6 @@ This and a thousand other things put Obama, quite possibly liable himself from t
 But if they don't, and even if they do, the investigation may reveal things so shocking the nation will never be the same. Rumors have been flying that are so extreme that even a ten percent accuracy rate could ignite a firestorm. 
 The problem for all of us is that there is literally nothing Clinton can do to get out of this box, even if, as many predict, Obama pardons her. The corruption is so pervasive there is no way short of an actual military putsch to stop the continuing revelations. And such an action would itself unleash '¦ well, you know the title of this article. 
 Would a Trump victory save us from all this? No one knows. Dennis Prager perhaps put it best. When you have two doors and behind one is a man-eating lion and the other one may or may not have such a lion, which door do you choose? Unless you want to commit suicide, the answer is self-evident.
-
 ARTICLE
 
 Trump breaks from stump speech to admire 'beautiful' Trump mask 11/07/2016 
@@ -1378,7 +1301,6 @@ Midway through a stump speech riff lamenting that Hillary Clinton had appeared o
 Trump then left the podium for a few seconds as the mask made its way up to the stage. He returned to the microphone and held up the mask next to his own face, before examining it closer. He held it up once more time and joked 'nice head of hair, I'll say that,' before tossing it back. 
 'Is there any place more fun to be than a Trump rally?' has asked the crowd before resuming his remarks, turning to his proposal to stimulate job growth in the U.S. by placing a tariff on companies who move production out of the country. 
 The Sarasota, Florida, rally is the first of five for Trump on Monday. From Florida, he will head to events in North Carolina, Pennsylvania, New Hampshire and Michigan. He will be joined at the final two by his running mate, Indiana Gov. Mike Pence.
-
 ARTICLE
 
 Donald Trump kicks off final campaign day with Fla. rally 11/07/2016 
@@ -1450,7 +1372,6 @@ ___
 With the cloud of an FBI investigation lifted, Hillary Clinton and Donald Trump struck strikingly different tones as they moved into the final hours of a volatile, nearly two-year-long presidential campaign. 
 After days of attacks on Trump's qualifications and temperament, Clinton cast herself as the candidate of ''healing and reconciliation,'' perhaps a surprising position for one of the most divisive figures in American politics. Trump, meanwhile, voiced new confidence as he brought his campaign â€” and his dark visions of a rigged American economic and political systemâ€” to longtime Democratic strongholds. 
 Overshadowing the flurry of last-minute campaigning was FBI Director James Comey's latest letter to Congress, informing lawmakers the bureau had found no evidence in its hurried review of newly discovered emails to warrant criminal charges against Clinton.
-
 ARTICLE
 
 Kremlin: NATO was Created for Agression 11/07/2016 
@@ -1461,7 +1382,6 @@ It reportedly aims to have up to 300,000 military personnel from nations across 
 ' We are responding with the biggest reinforcement of our collective defense since the end of the Cold War ,' Stoltenberg told the Times . The bloc is looking into how more of its 3 million personnel ' can be ready on a shorter notice ,' he added, saying that NATO defense ministers have already had discussions on the issue. 
 Having accused Moscow of ' assertive ' behavior, the NATO chief said Russia had increased its defense spending and was ' developing new military capabilities .' 
 ' In regard to its national security, Russia acts within its national borders, undoubtedly posing no threat to anyone ,' Peskov said, commenting on Stoltenberg's statements. The way the military bloc has reacted ' once again shows the organization's aggressive nature ,' he added.
-
 ARTICLE
 
 Hillary Clinton in lead a day before Election Day 11/07/2016 
@@ -1482,7 +1402,6 @@ Still, Trump continued to seize on the email issue, insisting that Clinton is 'g
 Both Clinton and Trump plan to spend the last day of the campaign racing across key battleground states that could determine the results of Tuesday's election. 
 Trump will visit Florida, North Carolina, Pennsylvania, and New Hampshire and finish the day with a rally in Grand Rapids, Michigan. 
 Clinton is travelling to Pennsylvania and Michigan before closing with a midnight-rally in Raleigh, North Carolina.
-
 ARTICLE
 
 Janet Reno, First Female US Attorney General, Dies At 78 11/07/2016 
@@ -1527,7 +1446,6 @@ Indeed, by the end of her tenure, Janet Reno had outlasted her critics and earne
 On the last episode of the 'Janet Reno's Dance Party' parody, Ferrell, wearing a blue dress and pearls, reminisces about past glories and laments that the end of the party is near. Then, suddenly, the real Janet Reno comes crashing through the wall of the set, wearing the same blue dress and pearls as Ferrell, to deliver one of Ferrell's signature lines: 'It's Reno Time!' 
 'Oh, Janet,' he says to the real Reno, as he mourns the end of the skit's run, 'what do you do when you get sad?' 
 'I just dance,' Reno replies, commanding the orchestra, 'Now, hit it!' as she breaks out her best moves to 'Twist and Shout.' It was her last day in office.
-
 ARTICLE
 
 5.0 Quake Near Oklahoma Oil Hub Causes Substantial Damage 11/07/2016 
@@ -1550,7 +1468,6 @@ Gillespie said the building shook for about 10 seconds, but that he wasn't as al
 According to USGS data, there have been about two dozen earthquakes in Oklahoma in the past week. When particularly strong quakes hit, the Oklahoma Corporation Commission directs well operators to cease wastewater injections or reduce volume. 
 A 5.8 earthquake '” a record for Oklahoma '” hit Pawnee on Sept. 3. Shortly afterward, geologists speculated on whether the temblor occurred on a previously unknown fault. 
 'I was at home doing some work in my office and, basically, you could feel the whole house sway some,' Spears, the Cushing city manager, said Sunday night. 'It's beginning to become normal.'
-
 ARTICLE
 
 Las Vegas May Become the New Amsterdam 11/07/2016 
@@ -1573,7 +1490,6 @@ Pro-marijuana interests cite a state study that found Colorado set an all-time t
 Marijuana opponents refer to a report from the Visit Denver tourism bureau that logged increasing complaints about panhandling and open marijuana consumption in the city's downtown corridor. 
 'Denver is losing visitors and valuable convention business as a result of these overall safety (or perception of safety) issues,' the report said. 'We fear not being able to brand Denver away from this growing reputation.' 
 Nevada's ballot initiative would not allow municipalities to put blanket bans on marijuana, as Colorado does. But it would bar consumption in buildings that are open to the public and permit local governments to restrict the locations of marijuana dispensaries and related businesses. It effectively blocks people from growing their own by banning the practice within 25 miles of a licensed marijuana store.
-
 ARTICLE
 
 Russia, China Look To Autonomous Financial System 11/07/2016 
@@ -1592,7 +1508,6 @@ Russia and China may reach the goal of $200bln trade by 2020 but energy and high
 'In 2015 construction of an eastern stretch of the gas pipeline was launched,' he said. 'Also, it includes oil supplies along the Skovorodino-Mohe (oil pipeline) extension and construction of large facilities, in particular the construction of Unit 3 at the Tianwan Nuclear Power Plant.' 
 Besides, high-tech projects should be enhanced, he said. 
 'I mean wide-body jets, heavy helicopters and other projects in the high-tech sector,' Medvedev said. 'It seems to me that if we diversify trade like this, our countries will be quite capable of reaching the level which we agreed on several years ago,' he said in conclusion. Share
-
 ARTICLE
 
 Worst Of Saudi Economic Slump Yet To Come 11/07/2016 
@@ -1606,11 +1521,9 @@ Experts further warned that this could store up obligations for Riyadh in the fu
 Reuters elsewhere emphasized that signs of the economic slump could be seen in Riyadh and other major cities, where discounts of 50 percent or more are offered by stores selling clothes and consumer electronics, and there is a surge in people offering second-hand cars for sale. 
 The biggest uncertainty may be how authorities can push through a key part of their reform drive, added the report. The most important issue for the Saudis may be determining how they plan to foster a vibrant private sector that does not depend on oil revenues while at the same pushing ahead austerity policies that are suppressing private demand. 
 Experts also warned that the status of the Saudi job market over the next few years. Between 1 million and 2 million of Saudi Arabia's 10 million foreign workers may leave over the next couple of years as the economic slowdown causes lay-offs and the government seeks to steer Saudi citizens into jobs previously held by foreigners, Reuters added.
-
 ARTICLE
 
 Charge Comey with TREASON and Flush Out the Entire FBI 11/07/2016 In today's video Christopher Greene of AMTV reports on FBI Director James Comey dropping investigation on Hillary Clinton's emails. 11/07/2016 HIGH TIMES Nevada already has legal brothels, round-the-clock casinos and a coy catchphrase declaring that 'what happ ... Russia, China Look To Autonomous Financial System 11/07/2016 TASS.COM Russia and China need to create an autonomous financial system which would be minimally subject to politic ... Worst Of Saudi Economic Slump Yet To Come 11/07/2016 PRESS TV Experts say the outlook for Saudi economic recovery will remain murky for many months to come with some even ... AMTV Archives
-
 ARTICLE
 
 US Military Prepares To Shut Down Russia's Internet If It Hacks The Election 11/08/2016 
@@ -1621,7 +1534,6 @@ The U.S. preparations are no different than Russia and China's probing of U.S. n
 'You'd gain access to a network, you'd establish your presence on the network and then you're poised to do what you would like to do with the network,' Gary Brown, a former legal adviser to U.S. Cyber Command (CYBERCOM), told NBC News. 
 U.S. cyber capabilities are top of the line, but the Obama administration has been wary of deploying them, despite consistent Russian provocation. CYBERCOM and the National Security Agency, the agencies responsible for U.S. cyber security, are incredibly secretive regarding U.S. capabilities. Stuxnet is the most well-known, publicized U.S. cyber weapon. The highly advanced computer worm wreaked havoc on Iran's nuclear enrichment program in 2010. 
 CYBERCOM is currently involved in cyber attacks against the Islamic State, but Pentagon officials have been especially silent on the exact details of the ' cyber bombs ' being dropped on the terrorist group. Russia may find itself the next target, should it decide to go from misinformation campaigns to attacks on infrastructure.
-
 ARTICLE
 
 Topless Protesters Arrested At Trump's Polling Station 11/08/2016 
@@ -1630,7 +1542,6 @@ The polling station where Republican candidate Donald Trump plans to vote Tuesda
 Two topless female protesters entered the New York City polling station, disturbing voters and chanting. The women were reportedly saying 'Trump, grab your balls!' in reference to the leaked audio of his lewd conversation with Billy Bush from 2005. 
 The protesters had 'Femen USA' painted on their backs. Femen is a mostly-European, extreme feminist activist group, increasingly spreading in the United States. 
 'I can assure you sure that once American women are trained and ready to act as Femen, every place of gender injustice, every representative of patriarchal culture, will be a target of Femen USA,' one activist told The Daily Beast .
-
 ARTICLE
 
 NATO fighter jets on constant watch for Russian jets above Baltic states 11/08/2016 
@@ -1639,15 +1550,12 @@ DAILY MAIL Russian fighter jets are constantly probing Nato's defences over the 
 +20 Nato soldiers stand on a pontoon bridge constructed across the Vistula river in Poland during the NATO Anaconda-16 exercise earlier this year Moscow has been throwing its weight around in recent years '“ in 2008 Russian troops humiliated the Georgians and in turn the White House by invading South Ossetia and Abkhazia in support of pro-Moscow rebels. Then in 2014 Russia annexed Crimea and supported ethnic Russian rebels in the eastern Ukraine. President Obama's 'Russian reset' policy, which was designed to improve relations with Moscow, has looked increasingly like a policy of appeasement. 
 +20 At the weekend Russian soldiers, dressed in World War Two era uniforms, commemorate the 75th anniversary of a famous parade in 1941 when the Red Army headed out of Moscow to take on the Nazis Russia's President Vladimir Putin has been accused of attempting to interfere with the US election process by hacking into the emails of senior members of the Democratic party and recently moved the Iskander nuclear-capable missiles into the Kaliningrad enclave, on the borders with Poland. But Nato members like Estonia, Poland and Romania, who are feeling increasingly threatened by Moscow, are now being promised a rapid deployment force. Nato Secretary General Jens Stoltenberg told The Times this week: 'We have also seen Russia using propaganda in Europe among Nato allies and that is exactly the reason why Nato is responding. We are responding with the biggest reinforcement of our collective defence since the end of the Cold War. 'We have seen Russia being much more active in many different ways. 'We have seen a more assertive Russia implementing a substantial military build-up over many years; tripling defence spending since 2000 in real terms; developing new military capabilities; exercising their forces and using military force against neighbours,' added Mr Stoltenberg. 
 +20 Russia recently moved its nuclear-capable Iskander missiles into the Kaliningrad enclave. The missiles could take out targets in Berlin Britain's permanent representative to Nato, Sir Adam Thomson, told The Times it would currently take Nato six months to deploy a force of 300,000, which was simply too slow. At the weekend British military intelligence officers issued a warning over a new Russian 'super tank' which they claim is far superior to anything which is available to Nato. The document claims that Britain's Challenger II main battle tank could be overpowered by the Kremlin's new Armata tank. Officials believe the new Russian tank is 'revolutionary' and blames the government for failing to provide a proper response. The new tank has several highly advanced features including an un-manned turret which makes the machine safer for crews Yesterday's military parade in Red Square commemorated a pivotal moment in World War Two when German forces were turned back from the gates of Moscow
-
 ARTICLE
 
 Election Mood Setting Music for You and Your Family 11/08/2016 11/08/2016  
-
 ARTICLE
 
 11/8/2016
-
 ARTICLE
 
 Lady Gaga Protests Donald Trump Outside of Trump Tower 11/09/2016 
@@ -1655,7 +1563,6 @@ E! ONLINE
 Lady Gaga took to Trump Tower early Wednesday morning to protest the results of the U.S. election. 
 The 'Bad Romance' singer, a well-known Hillary Clinton supporter, stood outside Donald Trump 's building and held a sign that read 'Love trumps hate.' As the hours passed Tuesday night and it became clearer that Trump would win the presidency, Gaga tweeted, 'In a room full of hope, we will be heard. Stand up for kindness, equality, and love. Nothing will stop us. Say a prayer America.' 
 Gaga campaigned for Clinton earlier this week, attending a rally where she spoke of Clinton's strengths. 'She has a career in politics that spans decades of experience, education, leadership, and wisdom. She's ready to be president,' she said. 'She kept going and she kept fighting for women's rights. She kept fighting for the care of our children. She kept fighting for those that are in need.'Trump's victory was declared around 2:30 a.m. ET, and during his speech he praised Clinton's efforts throughout the election. He said she was owed a 'deep debt of gratitude' for all her hard work. 'We will get along with all other nations willing to get along with us. We will deal fairly with everyone. We will seek common ground, partnership not conflict,' he added in his speech. 'America will no longer settle for anything less than the best. We must reclaim our destiny.'
-
 ARTICLE
 
 Trump Tower Surrounded By Dump Trucks In Anticipation Of Violence 11/09/2016 
@@ -1665,7 +1572,6 @@ The dump trucks flank the skyscraper on all sides, and are supplemented by guard
 Police told The Daily Caller News Foundation that the dumping beds are filled with sand, which adds weight to each truck, in effect making it impossible to run the barrier. Police decided to circle the Tower with trucks as a hedge against car bombs, or some such similar incendiary munition delivered by car. The fleet of trucks will travel with Trump this evening to surround the New York Hilton Midtown Manhattan Hotel, where Trump is hosting his victory rally. The NYPD maintained a presence around the hotel for several days, which is also closed to the public. 
 Guests staying in the hotel on unrelated business must present their keycards at a security check-point before entering the premises. 
 Similar security measures will attend Democratic presidential nominee Hillary Clinton's headquarters at the Javits Convention Center in Hell's Kitchen this evening.
-
 ARTICLE
 
 Shouts of 'Not my president!' in California, following Trump victory 11/09/2016 
@@ -1679,7 +1585,6 @@ Likewise, hundreds of students at UC San Diego and UCLA demonstrated on campus e
 Elsewhere in the country, protests were reported in Portland, Oregon and Washington, D.C. 
 In Oakland, authorities said dozens of protesters gathered downtown, while hundreds blocked a local highway. 
 The San Francisco Chronicle also reported that a 20-year-old protester was severely injured after being hit by a car on Highway 20. Protesters had blocked the highway and lit several fires, officer John O'Reilly told BuzzFeed News .
-
 ARTICLE
 
 Elites Have Secretly 'Banked On Trump Victory 11/09/2016 
@@ -1711,10 +1616,8 @@ Again, the reasons parallel the reasons that Brexit was able to succeed in spite
 The master manipulators are adaptive to any market conditions, and their influence runs deeper than the electorate of any given political season. Its agents and officers instruct the candidates and make demands, not the other way around. 
 In a puppeteer's world, must we always argue for the existence of puppets on every stage? 
 Read more:
-
 ARTICLE
 
 Russia To Hit ISIS In Aleppo With Cruise Missiles 11/09/2016 
 DAILY MAIL The Russian navy is planning a massive attack on Aleppo within the next 24 hours, according to a Ministry of Defence source. A group of ships including an aircraft carrier, a nuclear power guided missile cruiser and two destroyers is reportedly ready to strike from the Mediterranean Sea. But the Russian source insisted the missiles will aim for areas surrounding Aleppo to avoid harming the 200,000 civilians still living there. 'The group's main goal is to carry out missile strikes on terrorists outside of Aleppo that are attempting to get into the city', they told Gazeta.ru . 'The strikes will avoid the city of Aleppo to prevent civilian casualties, because terrorists continue to use city residents as human shields.' The source added that the details of the strike are still being finalised as they navy zeros in on exact targets around the Syrian city. The strikes could apparently include Kalibr cruise missiles, launched from a submarine. The strikes could apparently include Kalibr cruise missiles, although these would be launched from a submarine Russian aircraft carrier Admiral Kuznetsov is among the group in the Mediterranean Sea It comes on the day of the US election, after American officials have condemned Russia's bombing campaign in Syria. Secretary of state John Kerry has called on Russia, which supports dictator Bashar-al-Assad against rebel groups, to stop bombing civilians in what he described as the 'largest of humanitarian disasters'. But President Putin has denied any 'war crimes' and asked for evidence that his forces are bombing innocents. Russian planes were allegedly responsible for a strike killing at least seven children and two pregnant women in Syria's rebel stronghold province of Idlib on Tuesday. 
 +6 Russian planes were allegedly responsible for strikes killing at least seven children and two pregnant women in Syria's rebel stronghold province of Idlib on Tuesday The strike hit the town of Khan Sheikun in the south of the province, the Syrian Observatory for Human Rights monitor said. The Britain-based group, which relies on a network of sources inside Syria for its information, says it determines what planes carried out raids according to their type, location, flight patterns and the munitions involved. In Moscow, the defence ministry denied that Russian aircraft had been in the area on Tuesday, and accused the Observatory of 'information provocations'. Russia began its air campaign in support of the government in September 2015, saying it was targeting 'terrorists.' 'The strike hit a street where children were playing. Three of the dead children were from one family and were visiting their grandfather,' Observatory director Rami Abdel Rahman said.
-
