@@ -1,6 +1,7 @@
 import sys
 import csv
 import os
+import codecs
 
 def make_txt(filename):
     with open(filename, 'r') as csvfile:
@@ -9,7 +10,7 @@ def make_txt(filename):
         file = open("NOT_REAL_FILE","w")
         for row in rows:
             source_name = row[1].replace('.','-')
-            text = row[3] + "\n"
+            text = row[3]
             if source_name != current_source_name:
                 file.close()
                 file = open("./FakeNews/Kaggle-" + source_name + "Articles.txt","w") #"Kaggle" in front will make all files easier to delete if necessary
