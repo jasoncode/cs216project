@@ -5,7 +5,7 @@ import scrapingutil as scrape
 def getUrls():
     urls = []
     #number of pages, there are 15 articles per page
-    for i in range(1, 9):
+    for i in range(1, 16):
         tree = scrape.getHTML('http://countercurrentnews.com/category/corruption/page/' + str(i) + '/')   
         urls.extend(tree.xpath('//article/div[@class="post-thumb"]/a/@href'))
     
