@@ -3,7 +3,7 @@ import csv
 from textblob import TextBlob
 import os
 
-LEN_ROWS = 150
+LEN_ROWS = 505
 SUMMARY_STATS = 3
 SIGNAL = "CS216 Group 6"
 
@@ -61,6 +61,8 @@ def analyze_file(file_name):
                 (polarity, subjectivity) = blob.sentiment
                 subjectivities.append(subjectivity)
                 polarities.append(polarity)
+                if subjectivity == 1:
+                    print sentence
     return (subjectivities,polarities)
 
 def compute_summary(subjectivities, polarities):
@@ -73,12 +75,13 @@ def compute_summary(subjectivities, polarities):
   
 
 def process_files(by_source_writer, by_article_writer, file_names, title):
-        rows = [[''] for i in range(LEN_ROWS)]
-        rows[LEN_ROWS-3] = ['Mean']
-        rows[LEN_ROWS-2] = ['Abs Mean']
-        rows[LEN_ROWS-1] = ['Median']
-
+        source_rows = [[''] for i in range(LEN_ROWS)]
+        source_rows[LEN_ROWS-3] = ['Mean']
+        source_rows[LEN_ROWS-2] = ['Abs Mean']
+        source_rows[LEN_ROWS-1] = ['Median']
+        article_rows = []
         by_source_writer.writerow([title.upper(), ''])
+        by_article_writer.writerow([title.upper()])
         all_subj = []
         all_pol = []
 
@@ -87,8 +90,9 @@ def process_files(by_source_writer, by_article_writer, file_names, title):
             (subjectivities, polarities) = analyze_file(file_name) 
             if len(subjectivities) > 0:
                 #Prepare header
-                rows[0].extend([process_file_name(file_name),''])
-                rows[1].extend(['Subjectivity', 'Polarity']) 
+                header_name = process_file_name(file_name)
+                source_rows[0].extend([header_name,''])
+                source_rows[1].extend(['Subjectivity', 'Polarity']) 
             
                 all_subj.extend(subjectivities)
                 all_pol.extend(polarities)
@@ -96,28 +100,30 @@ def process_files(by_source_writer, by_article_writer, file_names, title):
                 i = 1
                 #Prepare to write to file_name
                 for i in range(2,2+len(subjectivities)):
-                    rows[i].extend([subjectivities[i-2], polarities[i-2]])
+                    source_rows[i].extend([subjectivities[i-2], polarities[i-2]])
+                    article_rows.append([header_name, subjectivities[i-2], polarities[i-2]])
                 for j in range(i+1, LEN_ROWS-SUMMARY_STATS-1):
-                    rows[j].extend(['',''])
+                    source_rows[j].extend(['',''])
                 
                 #Prepare summary statistics to write to file_name
                 summary_rows = compute_summary(subjectivities, polarities)
                 for i in range(SUMMARY_STATS):
-                    rows[LEN_ROWS+(i-3)].extend(summary_rows[i])
+                    source_rows[LEN_ROWS+(i-3)].extend(summary_rows[i])
                     
-                for row in rows:
-                    row.extend([' '])
+
                 
-        rows.append([])
+        source_rows.append([])
         spaces = [' '] * ((4 * len(file_names) - 4) / 2) #Centering for the overall summary
-        rows.append(spaces + ['', title + ' Summary'])
+        source_rows.append(spaces + ['', title + ' Summary'])
         summary_rows = compute_summary(all_subj, all_pol)
         for row in summary_rows:
-            rows.append(spaces + row)
-        rows.append([])
+            source_rows.append(spaces + row)
+        source_rows.append([])
 
-        for row in rows:
+        for row in source_rows:
             by_source_writer.writerow(row)
+        for row in article_rows:
+            by_article_writer.writerow(row)
 
 if __name__=="__main__":
     real_folder_path = '../Scraping/RealNews/'
@@ -129,5 +135,7 @@ if __name__=="__main__":
     by_article_file = open('../Results/results_byarticle.csv','w')
     source_csv_writer = csv.writer(by_source_file, delimiter=',', lineterminator = '\n')
     article_csv_writer = csv.writer(by_article_file, delimiter=',', lineterminator = '\n')
+    process_files(source_csv_writer, article_csv_writer, real_file_names, 'Real News')   
+    print ("On to fake news")
     process_files(source_csv_writer, article_csv_writer, fake_file_names, 'Fake News')  
-    process_files(source_csv_writer, article_csv_writer, 'Real News')   
+    
