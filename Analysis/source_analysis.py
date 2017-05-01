@@ -4,7 +4,8 @@ from textblob import TextBlob
 import os
 
 LEN_ROWS = 505
-SUMMARY_STATS = 3
+NUM_SUMMARY_STATS = 3
+SUMMARY_STATS = ['Mean', 'Absolute Mean', 'Median']
 SIGNAL = "CS216 Group 6"
 
 #Removes extension and writes filename in upper case for write_csv_header
@@ -61,8 +62,7 @@ def analyze_file(file_name):
                 (polarity, subjectivity) = blob.sentiment
                 subjectivities.append(subjectivity)
                 polarities.append(polarity)
-                if subjectivity == 1:
-                    print sentence
+
     return (subjectivities,polarities)
 
 def compute_summary(subjectivities, polarities):
@@ -73,17 +73,33 @@ def compute_summary(subjectivities, polarities):
         return [mean_row, abs_mean_row, median_row]
     return [['',''],['',''],['','']]
   
+def write_headers(writers, title):
+     writers['source'].writerow([title.upper(), ''])
+     writers['article'].writerow([title.upper(), 'Subjectivity','Polarity'])
+     writers['summary'].writerow([title.upper(), 'Mean', '', 'Absolute Mean', '', 'Median'])
+     writers['summary'].writerow(['','Subjectivity','Polarity','Subjectivity','Polarity','Subjectivity','Polarity'])
+     
 
-def process_files(by_source_writer, by_article_writer, file_names, title):
+def write_output(writers, source_rows, article_rows, summary_rows):
+    for row in source_rows:
+        writers['source'].writerow(row)
+    for row in article_rows:
+        writers['article'].writerow(row)
+    for row in summary_rows:
+        writers['summary'].writerow(row)
+
+def process_files(title, file_names, writers):
         source_rows = [[''] for i in range(LEN_ROWS)]
         source_rows[LEN_ROWS-3] = ['Mean']
         source_rows[LEN_ROWS-2] = ['Abs Mean']
         source_rows[LEN_ROWS-1] = ['Median']
         article_rows = []
-        by_source_writer.writerow([title.upper(), ''])
-        by_article_writer.writerow([title.upper()])
+        summary_rows = []
+        write_headers(writers, title)
+       
         all_subj = []
         all_pol = []
+        output = {'source':source_rows, 'article':article_rows, 'summary':summary_rows}
 
         for file_name in file_names:
             #Compute sentiment analysis
@@ -102,28 +118,39 @@ def process_files(by_source_writer, by_article_writer, file_names, title):
                 for i in range(2,2+len(subjectivities)):
                     source_rows[i].extend([subjectivities[i-2], polarities[i-2]])
                     article_rows.append([header_name, subjectivities[i-2], polarities[i-2]])
-                for j in range(i+1, LEN_ROWS-SUMMARY_STATS-1):
+                for j in range(i+1, LEN_ROWS-NUM_SUMMARY_STATS-1):
                     source_rows[j].extend(['',''])
                 
                 #Prepare summary statistics to write to file_name
-                summary_rows = compute_summary(subjectivities, polarities)
-                for i in range(SUMMARY_STATS):
-                    source_rows[LEN_ROWS+(i-3)].extend(summary_rows[i])
+                summary = compute_summary(subjectivities, polarities)
+                summary_flat = []
+                for i in range(NUM_SUMMARY_STATS):
+                    source_rows[LEN_ROWS+(i-3)].extend(summary[i])
+                    summary_flat.extend(summary[i])
+                if len(subjectivities) > 5:
+                    summary_rows.append([header_name]+summary_flat)
                     
 
                 
         source_rows.append([])
-        spaces = [' '] * ((4 * len(file_names) - 4) / 2) #Centering for the overall summary
+        summary_rows.append([])
+        article_rows.append([])
+        spaces = [' '] * ((4 * len(file_names) - 4) / 2 - 1) #Centering for the overall summary
         source_rows.append(spaces + ['', title + ' Summary'])
-        summary_rows = compute_summary(all_subj, all_pol)
-        for row in summary_rows:
-            source_rows.append(spaces + row)
-        source_rows.append([])
+        summary = compute_summary(all_subj, all_pol)
+        for i in range(NUM_SUMMARY_STATS):
+            source_rows.append(spaces + [SUMMARY_STATS[i]] + summary[i])
+            article_rows.append([SUMMARY_STATS[i]] + summary[i])
 
-        for row in source_rows:
-            by_source_writer.writerow(row)
-        for row in article_rows:
-            by_article_writer.writerow(row)
+        source_rows.append([])
+        summary_rows.append([])
+        article_rows.append([])
+        write_output(writers, source_rows, article_rows, summary_rows)
+            
+def make_writer(file_path):
+    file = open(file_path, 'wb')
+    writer = csv.writer(file, delimiter = ',')
+    return writer
 
 if __name__=="__main__":
     real_folder_path = '../Scraping/RealNews/'
@@ -131,11 +158,14 @@ if __name__=="__main__":
 
     real_file_names = [real_folder_path + file_name for file_name in os.listdir(real_folder_path)]
     fake_file_names = [fake_folder_path + file_name for file_name in os.listdir(fake_folder_path)]
-    by_source_file = open('../Results/resuls_bysource.csv','w')
-    by_article_file = open('../Results/results_byarticle.csv','w')
-    source_csv_writer = csv.writer(by_source_file, delimiter=',', lineterminator = '\n')
-    article_csv_writer = csv.writer(by_article_file, delimiter=',', lineterminator = '\n')
-    process_files(source_csv_writer, article_csv_writer, real_file_names, 'Real News')   
+    
+    source_path = ('source', make_writer('../Results/resuls_bysource.csv'))
+    summary_path = ('summary',make_writer('../Results/results_source_summary.csv'))
+    article_path = ('article', make_writer('../Results/results_byarticle.csv'))
+    paths = [source_path, summary_path, article_path]
+
+    writers = {path[0]:path[1] for path in paths}
+    process_files('Real News', real_file_names, writers)   
     print ("On to fake news")
-    process_files(source_csv_writer, article_csv_writer, fake_file_names, 'Fake News')  
+    process_files('Fake News', fake_file_names, writers) 
     
