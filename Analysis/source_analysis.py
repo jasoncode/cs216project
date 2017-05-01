@@ -3,9 +3,11 @@ import csv
 from textblob import TextBlob
 import os
 
-LEN_ROWS = 505
-NUM_SUMMARY_STATS = 3
-SUMMARY_STATS = ['Mean', 'Absolute Mean', 'Median']
+
+NUM_SUMMARY_STATS = 4
+SUMMARY_STATS = ['Mean', 'Absolute Mean', 'Median', 'Absolute Median']
+ARTICLES = 500
+LEN_ROWS = ARTICLES + NUM_SUMMARY_STATS + 2 #2 for buffer.
 SIGNAL = "CS216 Group 6"
 
 #Removes extension and writes filename in upper case for write_csv_header
@@ -70,14 +72,18 @@ def compute_summary(subjectivities, polarities):
         mean_row = [compute_mean(subjectivities), compute_mean(polarities)]
         abs_mean_row = [compute_mean(subjectivities),compute_mean([abs(p) for p in polarities])]
         median_row = [compute_median(subjectivities), compute_median(polarities)]
-        return [mean_row, abs_mean_row, median_row]
-    return [['',''],['',''],['','']]
+        abs_median_row = [compute_median(subjectivities), compute_median([abs(p) for p in polarities])]
+        return [mean_row, abs_mean_row, median_row, abs_median_row]
+    return [['',''],['',''],['',''],['','']]
   
 def write_headers(writers, title):
      writers['source'].writerow([title.upper(), ''])
      writers['article'].writerow([title.upper(), 'Subjectivity','Polarity'])
-     writers['summary'].writerow([title.upper(), 'Mean', '', 'Absolute Mean', '', 'Median'])
-     writers['summary'].writerow(['','Subjectivity','Polarity','Subjectivity','Polarity','Subjectivity','Polarity'])
+     summary_header = [title]
+     for stat in SUMMARY_STATS:
+         summary_header.extend([stat, ' '])
+     writers['summary'].writerow(summary_header)
+     writers['summary'].writerow([''] + ['Subjectivity','Polarity']*NUM_SUMMARY_STATS)
      
 
 def write_output(writers, source_rows, article_rows, summary_rows):
@@ -90,9 +96,9 @@ def write_output(writers, source_rows, article_rows, summary_rows):
 
 def process_files(title, file_names, writers):
         source_rows = [[''] for i in range(LEN_ROWS)]
-        source_rows[LEN_ROWS-3] = ['Mean']
-        source_rows[LEN_ROWS-2] = ['Abs Mean']
-        source_rows[LEN_ROWS-1] = ['Median']
+        for i in range(NUM_SUMMARY_STATS):
+            source_rows[LEN_ROWS-(NUM_SUMMARY_STATS-i)] = [SUMMARY_STATS[i]]
+
         article_rows = []
         summary_rows = []
         write_headers(writers, title)
@@ -125,7 +131,7 @@ def process_files(title, file_names, writers):
                 summary = compute_summary(subjectivities, polarities)
                 summary_flat = []
                 for i in range(NUM_SUMMARY_STATS):
-                    source_rows[LEN_ROWS+(i-3)].extend(summary[i])
+                    source_rows[LEN_ROWS+(i-NUM_SUMMARY_STATS)].extend(summary[i])
                     summary_flat.extend(summary[i])
                 if len(subjectivities) > 5:
                     summary_rows.append([header_name]+summary_flat)
