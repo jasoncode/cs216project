@@ -83,7 +83,7 @@ def write_headers(writers, title):
      for stat in SUMMARY_STATS:
          summary_header.extend([stat, ' '])
      writers['summary'].writerow(summary_header)
-     writers['summary'].writerow([''] + ['Subjectivity','Polarity']*NUM_SUMMARY_STATS)
+     writers['summary'].writerow(['', 'Num_Articles'] + ['Subjectivity','Polarity']*NUM_SUMMARY_STATS)
      
 
 def write_output(writers, source_rows, article_rows, summary_rows):
@@ -134,7 +134,7 @@ def process_files(title, file_names, writers):
                     source_rows[LEN_ROWS+(i-NUM_SUMMARY_STATS)].extend(summary[i])
                     summary_flat.extend(summary[i])
                 if len(subjectivities) > 5:
-                    summary_rows.append([header_name]+summary_flat)
+                    summary_rows.append([header_name, len(subjectivities)]+summary_flat)
                     
 
                 
