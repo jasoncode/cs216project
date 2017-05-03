@@ -18,8 +18,8 @@ def getAPIReponse():
         #data = requests.get('https://api.nytimes.com/svc/archive/v1/2016/1.json?api-key=64c18adc14cb43049ea3e5e74bdc7a49').json()
         
         #March 2017
-        data1 = requests.get('https://api.nytimes.com/svc/archive/v1/2017/2.json?api-key=64c18adc14cb43049ea3e5e74bdc7a49').json()
-        data2 = requests.get('https://api.nytimes.com/svc/archive/v1/2017/3.json?api-key=64c18adc14cb43049ea3e5e74bdc7a49').json()
+        data1 = requests.get('https://api.nytimes.com/svc/archive/v1/2016/10.json?api-key=64c18adc14cb43049ea3e5e74bdc7a49').json()
+        data2 = requests.get('https://api.nytimes.com/svc/archive/v1/2016/11.json?api-key=64c18adc14cb43049ea3e5e74bdc7a49').json()
         return data2, data1
                 
     except URLError, e:
