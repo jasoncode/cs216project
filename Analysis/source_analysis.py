@@ -165,7 +165,7 @@ if __name__=="__main__":
     real_file_names = [real_folder_path + file_name for file_name in os.listdir(real_folder_path)]
     fake_file_names = [fake_folder_path + file_name for file_name in os.listdir(fake_folder_path)]
     
-    source_path = ('source', make_writer('../Results/resuls_bysource.csv'))
+    source_path = ('source', make_writer('../Results/results_bysource.csv'))
     summary_path = ('summary',make_writer('../Results/results_source_summary.csv'))
     article_path = ('article', make_writer('../Results/results_byarticle.csv'))
     paths = [source_path, summary_path, article_path]
